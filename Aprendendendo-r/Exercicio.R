@@ -105,5 +105,49 @@ tabela_quartis <- data.frame(
 print(tabela_quartis)
 
 
+###############################################################################
+# Questão 4
+# Gerar o histograma para a coluna "hp"
+hist(dados$hp, main = "Histograma - Horsepower", xlab = "Horsepower (hp)", ylab = "Frequência", col = "lightblue", border = "black")
 
+# Definir o número de classes usando a regra de Sturges
+num_classes <- ceiling(log2(nrow(dados)) + 1)
 
+###################################################################################################################
+
+# Criar uma tabela de frequência usando as classes sugeridas pelo histograma
+tabela_frequencia <- data.frame(
+  Classes = cut(dados$hp, breaks = num_classes, include.lowest = TRUE),
+  Frequencia_Absoluta = table(cut(dados$hp, breaks = num_classes, include.lowest = TRUE)),
+  Frequencia_Relativa = table(cut(dados$hp, breaks = num_classes, include.lowest = TRUE)) / nrow(dados),
+  Frequencia_Acumulada = cumsum(table(cut(dados$hp, breaks = num_classes, include.lowest = TRUE))),
+  Frequencia_Relativa_Acumulada = cumsum(table(cut(dados$hp, breaks = num_classes, include.lowest = TRUE))) / nrow(dados)
+)
+
+# Exibir a tabela de frequência
+print(tabela_frequencia)
+
+########################################################################################################
+
+# Gerar o histograma para a coluna "hp" e obter os breaks (limites das classes)
+histograma <- hist(dados$hp, plot = FALSE)
+
+# Criar as classes manualmente usando os breaks do histograma
+classes <- cut(dados$hp, breaks = histograma$breaks, include.lowest = TRUE, right = TRUE)
+
+# Criar a tabela de frequência
+tabela_frequencia <- data.frame(
+  Classes = levels(classes),
+  Frequencia_Absoluta = table(classes),
+  Frequencia_Relativa = table(classes) / length(classes),
+  Frequencia_Acumulada = cumsum(table(classes)),
+  Frequencia_Relativa_Acumulada = cumsum(table(classes)) / length(classes)
+)
+
+# Exibir a tabela de frequência
+print(tabela_frequencia)
+
+  
+  
+  
+  
