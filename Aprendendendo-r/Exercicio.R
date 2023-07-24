@@ -177,3 +177,38 @@ barplot(contagem_motor, col = c("lightblue", "lightgreen"),
         names.arg = c("Automático", "Manual"),
         xlab = "Tipo de Marcha", ylab = "Frequência de Marcas",
         main = "Quantidade de Marcas por Tipo de Marcha")
+
+
+# Questão 7
+# Calcular o coeficiente de correlação entre as colunas "mpg" e "hp"
+correlacao <- cor(dados$mpg, dados$hp)
+
+# Exibir o coeficiente de correlação
+print(paste("Coeficiente de correlação: ", correlacao))
+
+# Gerar o gráfico de dispersão
+plot(dados$mpg, dados$hp, main = "Gráfico de Dispersão", 
+     xlab = "Milhas por Galão (mpg)", ylab = "Horsepower (hp)")
+
+# Agrupar os dados usando os quartis da coluna "mpg"
+quartis_mpg <- quantile(dados$mpg, probs = c(0, 0.25, 0.5, 0.75, 1))
+grupo_mpg <- cut(dados$mpg, breaks = quartis_mpg, labels = c("Q1", "Q2", "Q3", "Q4"))
+
+# Calcular a média de "hp" para cada grupo de quartis de "mpg"
+media_hp_por_grupo <- tapply(dados$hp, grupo_mpg, mean)
+
+# Exibir a tabela de médias por grupo
+print(data.frame(Quartis = levels(grupo_mpg), Média_HP = media_hp_por_grupo))
+
+# Questão 8
+# Criar uma nova tabela contendo apenas as colunas numéricas
+nova_tabela <- dados[, sapply(dados, is.numeric)]
+
+# Exibir a nova tabela com apenas as variáveis numéricas
+print(nova_tabela)
+
+# Calcular a matriz de correlação entre todas as variáveis numéricas
+matriz_correlacao <- cor(nova_tabela)
+
+# Exibir a matriz de correlação
+print(matriz_correlacao)
