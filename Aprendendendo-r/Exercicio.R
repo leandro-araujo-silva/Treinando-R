@@ -166,4 +166,14 @@ barplot(t(matriz_frequencias), beside = TRUE, col = c("lightblue", "lightgreen")
         main = "Frequência de Marcha por Motor")
   
   
-  
+# Questão 6
+# Contar a quantidade de marcas que utilizam o motor automático e manual
+contagem_motor <- table(dados$marcha)
+
+print(contagem_motor)
+
+# Criar gráfico de barras com as frequências de marcas para cada tipo de motor
+barplot(contagem_motor, col = c("lightblue", "lightgreen"), 
+        names.arg = c("Automático", "Manual"),
+        xlab = "Tipo de Marcha", ylab = "Frequência de Marcas",
+        main = "Quantidade de Marcas por Tipo de Marcha")
