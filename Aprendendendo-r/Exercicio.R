@@ -147,7 +147,23 @@ tabela_frequencia <- data.frame(
 # Exibir a tabela de frequência
 print(tabela_frequencia)
 
-  
+# Questão 5
+
+# Criar a matriz de frequências das colunas "motor" e "marcha"
+matriz_frequencias <- table(dados$motor, dados$marcha)
+
+# Exibir a matriz de frequências
+print(matriz_frequencias)
+
+# Criar gráfico de barras motor x marcha
+barplot(matriz_frequencias, beside = TRUE, col = c("lightblue", "lightgreen"),
+        legend = rownames(matriz_frequencias), xlab = "Motor", ylab = "Frequência",
+        main = "Frequência de Motor por Marcha")
+
+# Criar gráfico de barras marcha x motor
+barplot(t(matriz_frequencias), beside = TRUE, col = c("lightblue", "lightgreen"),
+        legend = colnames(matriz_frequencias), xlab = "Marcha", ylab = "Frequência",
+        main = "Frequência de Marcha por Motor")
   
   
   
