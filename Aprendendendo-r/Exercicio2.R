@@ -76,3 +76,26 @@ ggplot(dados, aes(x = "", y = NU_NOTA_CN)) +
   geom_boxplot(fill = "lightgreen", color = "black") +
   labs(title = "Boxplot da Nota de Natureza", x = "Nota de Natureza", y = "Nota")
 
+# Exercício 3
+
+# Tabela de frequências cruzadas entre as variáveis sexo e lingua_estrangeira
+tabela_frequencias_qualitativas <- table(dados$TP_SEXO, dados$TP_LINGUA)
+
+# Exibir a tabela de frequências cruzadas
+print(tabela_frequencias_qualitativas)
+
+# Gráfico de barras com a relação entre sexo e lingua_estrangeira
+barplot(tabela_frequencias_qualitativas, beside = TRUE, col = c("lightblue", "lightgreen"),
+        legend = TRUE, args.legend = list(x = "topright", bty = "n", inset = c(0, -0.15)),
+        xlab = "Sexo", ylab = "Frequência",
+        main = "Relação entre Sexo e Língua Estrangeira")
+
+# Boxplot da nota_enem agrupado por estado_civil
+ggplot(dados, aes(x = TP_ESTADO_CIVIL, y = NU_NOTA_ENEM, fill = TP_ESTADO_CIVIL)) +
+  geom_boxplot() +
+  labs(title = "Boxplot da Nota Final no ENEM por Estado Civil", x = "Estado Civil", y = "Nota Final no ENEM")
+
+# Gráfico de dispersão entre nota_natureza e nota_humanas
+ggplot(dados, aes(x = NU_NOTA_CN, y = NU_NOTA_CH)) +
+  geom_point(color = "blue") +
+  labs(title = "Gráfico de Dispersão entre Nota de Natureza e Nota de Humanas", x = "Nota de Natureza", y = "Nota de Humanas")
