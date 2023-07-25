@@ -1,0 +1,1127 @@
+NU_IDADE;TP_ESTADO_CIVIL;TP_COR_RACA;TP_SEXO;TP_LINGUA;CO_ESCOLA;NO_MUNICIPIO_ESC;SG_UF_ESC;NU_NOTA_CN;NU_NOTA_CH;NU_NOTA_LC;NU_NOTA_MT;NU_NOTA_REDACAO;NU_NOTA_ENEM;COMPUTADOR;INTERNET
+18;Soteiro(a);Branca;F;ESpanhol;27015068;Palmeira dos Indios;AL;400.8;449.5;470.6;360;500;436.18;Não;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27045234;Penedo;AL;476.7;383.5;479.4;413.3;420;434.58;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;480.9;373.9;408.5;478.4;480;444.34;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;421.1;505.5;524.9;461.6;560;494.62;Não;Sim
+19;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;541.1;551.5;559.1;639.6;720;602.26;Não;Não
+17;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;565.9;531.2;482.6;548.5;560;537.64;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27014959;Palmeira dos Indios;AL;498.9;574.1;531.1;451.9;780;567.2;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27045552;Penedo;AL;466.1;546.6;416;573.9;620;524.52;Sim, dois;Sim
+17;Soteiro(a);Não dec;F;Inglês;27015068;Palmeira dos Indios;AL;401.4;361.3;441.1;430.7;400;406.9;Não;Não
+17;Soteiro(a);Amarela;M;Inglês;27215830;Palmeira dos Indios;AL;438;334.1;522.1;580.1;600;494.86;Não;Sim
+18;Soteiro(a);Amarela;M;Inglês;27047830;Penedo;AL;496.4;480.2;525.6;627.7;500;525.98;Não;Sim
+18;Soteiro(a);Branca;F;Inglês;27226328;Coruripe;AL;602.3;675.4;642.8;720.5;800;688.2;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27226239;Coruripe;AL;367.3;438.8;511.3;441.6;680;487.8;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27226166;Penedo;AL;453.2;518.8;531.9;445.1;680;525.8;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;512.2;534.9;540;504.1;580;534.24;Sim, um;Sim
+19;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;509.4;570.8;550.9;532.3;740;580.68;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;429.3;522.3;467;451.9;500;474.1;Não;Sim
+18;Soteiro(a);Branca;F;Inglês;27013995;Palmeira dos Indios;AL;426.3;415.7;492.1;422.9;640;479.4;Não;Sim
+18;Soteiro(a);Branca;F;Inglês;27047830;Penedo;AL;505.5;563.3;531.8;454.6;680;547.04;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;411.5;465.3;422;446.1;500;448.98;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27013995;Palmeira dos Indios;AL;503.2;572.7;485.8;621.7;620;560.68;Não;Não
+19;Soteiro(a);Não dec;F;ESpanhol;27215830;Palmeira dos Indios;AL;533.3;554.2;548.5;576.1;560;554.42;Sim, um;Sim
+18;Soteiro(a);Não dec;F;Inglês;27226239;Coruripe;AL;523.5;560.1;591.4;641.7;720;607.34;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;497.4;522.4;540.4;558.5;560;535.74;Não;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;517.4;550.3;563.1;653.6;880;632.88;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;548;521.1;557.4;463.6;760;570.02;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27045234;Penedo;AL;384.6;400.8;476.1;437.2;440;427.74;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;394.4;491.9;360.3;404.2;640;458.16;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;505.2;536.7;514.6;564.6;640;552.22;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27045234;Penedo;AL;392.5;479.9;489.4;434.7;400;439.3;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;525.6;410.3;546.1;497.7;760;547.94;Não;Não
+17;Soteiro(a);Não dec;F;Inglês;27013928;Palmeira dos Indios;AL;400.8;447.7;501.8;448.2;500;459.7;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;348;413.2;387.4;398.8;660;441.48;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;372.9;447.4;530.8;360.4;560;454.3;Não;Não
+19;Soteiro(a);Branca;M;ESpanhol;27013928;Palmeira dos Indios;AL;343.1;457.6;446;372.1;300;383.76;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;433.2;491.4;467.7;520.5;580;498.56;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;554.4;540.6;542.6;566.1;840;608.74;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;457.5;571.7;585.9;700.5;880;639.12;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27045145;Penedo;AL;409.5;429.1;450.6;470;460;443.84;Sim, um;Sim
+19;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;554;597.6;599.9;599;720;614.1;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;556.5;599.6;591.6;600.7;880;645.68;Sim, dois;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045153;Penedo;AL;511;519.8;553.2;558;620;552.4;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;380.1;363.3;411.8;384.7;440;395.98;Não;Não
+19;Soteiro(a);Branca;F;ESpanhol;27045145;Penedo;AL;515.3;601.3;587.9;626.1;860;638.12;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;344.9;419.8;340.8;402.4;640;429.58;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;357.9;394.7;480.8;395.2;320;389.72;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;515.9;548.9;525.8;435.3;520;509.18;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;552.1;547.1;563.9;477.4;500;528.1;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;353.6;461;509.8;444.2;520;457.72;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;382.9;485.1;525.1;408.4;600;480.3;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27013979;Palmeira dos Indios;AL;422.7;553.9;558.7;578.9;560;534.84;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;472.6;570.9;530.8;633.2;760;593.5;Não;Sim
+17;Separado(a);Parda;M;ESpanhol;27014037;Palmeira dos Indios;AL;430.1;384.4;480.6;394.1;600;457.84;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;416.1;460.1;466.6;453.1;560;471.18;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27042251;Coruripe;AL;515.6;534.6;536.9;490.9;600;535.6;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27042251;Coruripe;AL;437.8;447.5;522.8;446.2;680;506.86;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27013901;Palmeira dos Indios;AL;499.7;483.2;492.4;457.5;600;506.56;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;407.8;414.8;429.6;437.6;400;417.96;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;435.6;415.9;476;481.6;580;477.82;Sim, um;Sim
+17;Soteiro(a);Parda;M;Inglês;27045137;Penedo;AL;475.1;430.6;557.1;577.5;580;524.06;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014037;Palmeira dos Indios;AL;368.4;513.1;434.9;408.1;560;456.9;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27042251;Coruripe;AL;445.5;552.2;541.7;467.8;580;517.44;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;341.7;422.2;419.8;429.9;580;438.72;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;425.1;520.7;525.9;520;780;554.34;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27042251;Coruripe;AL;374.4;354.2;469.7;482.5;620;460.16;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;506.2;450.9;486.3;569.8;520;506.64;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045234;Penedo;AL;381.8;433.4;461.1;510.8;620;481.42;Não;Não
+18;Soteiro(a);Preta;F;ESpanhol;27014959;Palmeira dos Indios;AL;447.4;597.4;561.2;581.4;960;629.48;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;397.9;482.8;507.9;488.9;540;483.5;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;478.4;427.3;523.7;398.1;740;513.5;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27045145;Penedo;AL;401.1;489.1;522.5;463.1;680;511.16;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;433.2;531.3;551.3;579.9;800;579.14;Sim, um;Sim
+19;Soteiro(a);Preta;M;Inglês;27050572;Coruripe;AL;551.8;565.6;592.7;682.2;680;614.46;Não;Não
+18;Soteiro(a);Preta;F;Inglês;27050572;Coruripe;AL;554.9;586.4;540.4;572.4;700;590.82;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;531.5;571.1;554.6;464.7;780;580.38;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27045234;Penedo;AL;414.6;531.1;562;435.1;620;512.56;Não;Sim
+19;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;537.9;555.8;561.8;537.8;800;598.66;Não;Sim
+23;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;510.9;532.3;563;636.4;740;596.52;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27014959;Palmeira dos Indios;AL;521.1;515.5;475.1;554.5;900;593.24;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;596.2;573;630.1;669.5;660;625.76;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045153;Penedo;AL;592.1;589.2;568.7;536;800;617.2;Não;Sim
+18;Soteiro(a);Amarela;M;Inglês;27045145;Penedo;AL;444.7;466.7;416.9;519.9;320;433.64;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;547.4;515.6;543.2;513.8;400;504;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;478;572;529.9;575.2;780;587.02;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;546.6;499.1;530.9;548.5;680;561.02;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;392.2;512;557.2;401.7;440;460.62;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;462.9;509.7;522.5;514.9;600;522;Sim, um;Não
+19;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;531.7;543.9;592.3;591.6;620;575.9;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27014010;Palmeira dos Indios;AL;493.1;492.4;546.9;486.9;800;563.86;Não;Não
+20;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;523.9;540.8;586.3;549.1;660;572.02;Sim, um;Sim
+18;Não dec;Parda;M;ESpanhol;27226239;Coruripe;AL;407.1;413.5;376.9;381.9;580;431.88;Não;Não
+18;Soteiro(a);Preta;F;ESpanhol;27226328;Coruripe;AL;420.9;462.8;522;457.8;700;512.7;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27013901;Palmeira dos Indios;AL;590.5;637;601.5;623.7;940;678.54;Sim, dois;Sim
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;373;491.1;482.1;448.8;600;479;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27014053;Palmeira dos Indios;AL;548.7;574.1;575.1;659.4;880;647.46;Sim, dois;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045145;Penedo;AL;390.6;425.1;401.2;435.4;460;422.46;Não;Sim
+18;Soteiro(a);Indigena;M;Inglês;27215830;Palmeira dos Indios;AL;572.2;662.9;594.6;689.9;740;651.92;Sim, um;Sim
+17;Soteiro(a);Branca;M;Inglês;27047830;Penedo;AL;451.2;520.1;516.2;640;840;593.5;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;562.7;607.2;557.7;636.4;860;644.8;Sim, dois;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27215830;Palmeira dos Indios;AL;631.5;647.3;645.4;761.8;780;693.2;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;519.1;626.3;556.4;474.5;800;595.26;Sim, um;Sim
+18;Soteiro(a);Amarela;F;ESpanhol;27215830;Palmeira dos Indios;AL;586.9;665.1;573.6;756.6;940;704.44;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;377.4;443;495.5;419;600;466.98;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;417;486.5;484.5;551.8;720;531.96;Não;Não
+18;Soteiro(a);Amarela;F;Inglês;27045145;Penedo;AL;452;513;545.7;407.3;580;499.6;Não;Sim
+17;Soteiro(a);Preta;M;ESpanhol;27045145;Penedo;AL;503;557.4;506.1;464.2;640;534.14;Não;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27045145;Penedo;AL;369.3;500.5;512.2;525.6;540;489.52;Não;Não
+17;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;592;595.4;589.7;781.4;940;699.7;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27013928;Palmeira dos Indios;AL;447.1;635.1;619.6;483.7;780;593.1;Sim, um;Sim
+18;Soteiro(a);Amarela;M;Inglês;27215830;Palmeira dos Indios;AL;517.5;600.7;568.3;502.8;600;557.86;Não;Não
+18;Soteiro(a);Preta;F;ESpanhol;27042251;Coruripe;AL;386.3;351.1;413.5;414.7;420;397.12;Não;Sim
+18;Soteiro(a);Amarela;F;Inglês;27050572;Coruripe;AL;499.8;582.5;575;580.3;880;623.52;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;423.3;419.3;461.7;476.1;580;472.08;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;386.4;424.4;491.9;538.3;640;496.2;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27014959;Palmeira dos Indios;AL;413.7;387.8;437.8;509.2;500;449.7;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045552;Penedo;AL;470.7;492.6;480.6;464.3;460;473.64;Não;Sim
+20;Soteiro(a);Branca;M;Inglês;27014010;Palmeira dos Indios;AL;463;392.4;386.1;406;360;401.5;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;404.9;485.8;510.2;490.6;540;486.3;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;615;642.9;624;714;920;703.18;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27014002;Palmeira dos Indios;AL;514.7;536.7;503.4;518.1;580;530.58;Não;Não
+21;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;427.2;413;463;543.2;640;497.28;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;620.4;596.6;568.3;591.7;720;619.4;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27042251;Coruripe;AL;421.6;423.3;497.2;384.2;620;469.26;Não;Não
+18;Soteiro(a);Não dec;F;ESpanhol;27215830;Palmeira dos Indios;AL;486.6;504.9;512.9;516.3;600;524.14;Sim, um;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27014959;Palmeira dos Indios;AL;437.7;413.1;338.9;401.8;560;430.3;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;378.5;496.3;366.4;487;480;441.64;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;629.6;658.4;626.7;740;900;710.94;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;411.6;623.2;527.7;410.2;600;514.54;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;562.7;534.6;471.9;509.9;860;587.82;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27014010;Palmeira dos Indios;AL;465.2;417.9;491.6;458.1;300;426.56;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;414.8;481.1;504.4;457.9;480;467.64;Sim, um;Sim
+17;Soteiro(a);Parda;M;Inglês;27014010;Palmeira dos Indios;AL;426.9;513.4;528.8;453.4;820;548.5;Não;Sim
+19;Soteiro(a);Preta;M;Inglês;27014029;Palmeira dos Indios;AL;419.2;469.6;509.7;395.9;400;438.88;Sim, um;Sim
+18;Soteiro(a);Preta;M;Inglês;27047830;Penedo;AL;604;618.2;660.2;753.9;920;711.26;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;392.6;447.6;499.9;583.9;580;500.8;Não;Sim
+18;Soteiro(a);Amarela;M;ESpanhol;27045552;Penedo;AL;485.5;545;584;609.1;600;564.72;Sim, um;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;605.8;627.4;542.5;477.6;680;586.66;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;453.3;354.2;425.1;565.8;720;503.68;Não;Sim
+18;Soteiro(a);Preta;F;Inglês;27013928;Palmeira dos Indios;AL;451.5;409;474;370.7;620;465.04;Não;Sim
+17;Soteiro(a);Amarela;F;ESpanhol;27045145;Penedo;AL;454.9;561.6;584;569.5;780;590;Não;Sim
+17;Não dec;Parda;M;ESpanhol;27045234;Penedo;AL;405.4;443.4;512;496.2;440;459.4;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27045552;Penedo;AL;343.2;477.5;433.8;387.3;500;428.36;Não;Não
+18;Soteiro(a);Branca;M;Inglês;27226328;Coruripe;AL;463.2;395.6;515.7;409.5;480;452.8;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226166;Penedo;AL;366.7;463.2;401.8;426.9;640;459.72;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27045200;Penedo;AL;354.6;395.9;361.8;437.4;460;401.94;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;494.4;542.2;509.3;494.5;680;544.08;Não;Sim
+20;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;430.9;525.5;529.4;454.2;560;500;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;410.1;433.6;438.8;456.1;820;511.72;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;434.3;554.2;568.2;613.5;700;574.04;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;477.6;425.7;436.1;440.4;460;447.96;Não;Não
+17;Soteiro(a);Preta;M;ESpanhol;27045234;Penedo;AL;337.8;416.5;473.4;511.3;480;443.8;Sim, um;Sim
+17;Não dec;Parda;F;ESpanhol;27045552;Penedo;AL;343.9;539;470.1;466.4;340;431.88;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014053;Palmeira dos Indios;AL;391.2;504.2;460.3;666;600;524.34;Sim, um;Sim
+20;Soteiro(a);Preta;M;Inglês;27013880;Palmeira dos Indios;AL;522.4;359.9;331.5;432.5;320;393.26;Não;Não
+17;Soteiro(a);Indigena;M;ESpanhol;27045234;Penedo;AL;502.9;569.2;546.9;547;600;553.2;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;365.9;578;552.8;488.4;720;541.02;Não;Não
+20;Soteiro(a);Amarela;F;ESpanhol;27215830;Palmeira dos Indios;AL;418.8;503.8;561.3;611.8;600;539.14;Não;Sim
+17;Soteiro(a);Preta;M;ESpanhol;27042251;Coruripe;AL;415;360.9;502.8;536.7;600;483.08;Não;Não
+17;Soteiro(a);Branca;M;ESpanhol;27014959;Palmeira dos Indios;AL;444.3;577.7;545.8;429.3;720;543.42;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;412.1;434.7;486.9;408.6;340;416.46;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27050572;Coruripe;AL;536;476.6;523.1;663;700;579.74;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;496.1;530.7;573;608.6;600;561.68;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;620.7;641.2;597.3;719.7;980;711.78;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;528.2;361.1;516.8;417.1;520;468.64;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;500.2;598.9;561.5;624.9;920;641.1;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;573.9;624.7;581.4;665.4;920;673.08;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27047830;Penedo;AL;523.5;559.5;563.8;641.7;640;585.7;Sim, dois;Sim
+17;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;544.3;587.8;499.6;692.4;860;636.82;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27220923;Palmeira dos Indios;AL;574;497.6;414.9;481.6;440;481.62;Não;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27042251;Coruripe;AL;439.4;394;374.2;567.3;520;458.98;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;503.3;571.7;548.7;616.4;940;636.02;Não;Não
+18;Soteiro(a);Branca;F;Inglês;27047830;Penedo;AL;587.5;556.6;572.1;622.8;600;587.8;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;574.7;593.1;594.4;597.2;880;647.88;Sim, um;Não
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;505.8;486.6;572.2;594.5;600;551.82;Não;Sim
+18;Soteiro(a);Não dec;F;ESpanhol;27014053;Palmeira dos Indios;AL;542.3;478.4;500;529.9;800;570.12;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;467.6;471;554.8;630.7;800;584.82;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;560.1;579.7;592.6;652.9;680;613.06;Não;Sim
+19;Soteiro(a);Preta;M;Inglês;27014010;Palmeira dos Indios;AL;433.4;410.7;486.1;410.3;560;460.1;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;552.2;538.8;567.3;650.7;780;617.8;Sim, um;Sim
+17;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;559.2;549.3;481.3;649.2;940;635.8;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;500.8;514.5;466.1;387.8;860;545.84;Não;Sim
+16;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;478.2;518.1;549.9;461.5;580;517.54;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;454.7;446.5;509.1;419.6;660;497.98;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;513.4;539.5;488.5;515.5;540;519.38;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;377.1;482.7;523.4;390.6;520;458.76;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;398.1;379.6;491.4;477.3;560;461.28;Não;Sim
+17;Não dec;Parda;F;ESpanhol;27045552;Penedo;AL;422.3;387.3;393;408.7;540;430.26;Sim, um;Sim
+20;Soteiro(a);Amarela;M;Inglês;27215830;Palmeira dos Indios;AL;506.2;539.7;553;602.2;560;552.22;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;613.3;589.9;551.1;545.2;860;631.9;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;501.6;582.4;572.8;497.1;560;542.78;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;529.2;440.7;501.2;631.8;600;540.58;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;496.8;469.2;540.2;499.8;480;497.2;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;356.3;487.8;525.3;624.3;680;534.74;Sim, um;Sim
+17;Soteiro(a);Amarela;F;ESpanhol;27045552;Penedo;AL;420.4;507.6;426;383.2;600;467.44;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;404.1;495.7;502.7;524.1;560;497.32;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;439.7;393.9;435.3;372.9;580;444.36;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;464.5;520.7;478.5;553;680;539.34;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;606.7;638.4;597.4;690.7;800;666.64;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;443.4;471.7;525.1;504.9;560;501.02;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;422.7;543.4;508;457.3;520;490.28;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;650.2;661.9;625.4;825.4;900;732.58;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;413.9;366.5;393.8;427.4;440;408.32;Não;Não
+18;Soteiro(a);Branca;M;ESpanhol;27226328;Coruripe;AL;421.2;435.5;421;580.5;500;471.64;Sim, um;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27013928;Palmeira dos Indios;AL;528.5;492.5;461.9;436.3;560;495.84;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;414.1;560.4;566.1;496.7;860;579.46;Não;Sim
+18;Não dec;Parda;M;ESpanhol;27045145;Penedo;AL;394.3;425.9;438;470.8;360;417.8;Não;Sim
+16;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;365;473.4;521.2;408.1;520;457.54;Sim, um;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27014959;Palmeira dos Indios;AL;375.1;449.8;429.7;472.3;300;405.38;Sim, um;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27014959;Palmeira dos Indios;AL;479.4;504.7;526.2;422.7;860;558.6;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;343.5;430.9;458.6;427.6;640;460.12;Não;Sim
+17;Soteiro(a);Preta;F;Inglês;27014029;Palmeira dos Indios;AL;427.9;481.7;498.7;517.1;520;489.08;Não;Sim
+18;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;419.2;525.2;562;472.1;620;519.7;Sim, um;Sim
+18;Soteiro(a);Preta;F;Inglês;27226328;Coruripe;AL;401.9;390.2;485.3;474.7;760;502.42;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;486.7;512.5;543.6;463.4;620;525.24;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27045552;Penedo;AL;362.7;355.6;457.6;457.5;420;410.68;Sim, um;Sim
+17;Soteiro(a);Parda;M;Inglês;27013995;Palmeira dos Indios;AL;474.6;580.2;526.1;509.1;700;558;Não;Não
+18;Soteiro(a);Branca;M;Inglês;27226328;Coruripe;AL;478.8;522;521.3;459.9;560;508.4;Não;Não
+19;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;558.4;590.3;424.6;739.1;740;610.48;Sim, um;Sim
+18;Soteiro(a);Amarela;M;Inglês;27045234;Penedo;AL;377;496.6;439.5;468.7;580;472.36;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27042251;Coruripe;AL;376.5;462.5;475.4;424.7;700;487.82;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;437.6;366.4;486.2;540.5;480;462.14;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;399.5;507.1;544.3;605;800;571.18;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;571.4;607.7;589.8;701;660;625.98;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27014010;Palmeira dos Indios;AL;493.1;545;518.4;407;540;500.7;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27015068;Palmeira dos Indios;AL;409.7;436.1;376.5;543.9;480;449.24;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;372.4;496.3;535.2;478.9;560;488.56;Não;Não
+16;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;383.8;537.1;471.4;487.2;700;515.9;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;423.3;543.4;502;740;800;601.74;Sim, um;Sim
+17;Soteiro(a);Branca;M;Inglês;27014010;Palmeira dos Indios;AL;568.7;572.6;588.7;641.1;560;586.22;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;508.8;534.1;521.5;493.5;420;495.58;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27050572;Coruripe;AL;513.1;361;562.7;659;940;607.16;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;504.6;542.7;560.9;440.5;880;585.74;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;458.4;482.8;531.4;486;600;511.72;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;358.3;400.4;502.6;375.3;580;443.32;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;493.8;531;536.1;558.8;800;583.94;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;570.7;648.7;623.7;603.1;660;621.24;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;390.2;441.4;485.3;400.4;580;459.46;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045552;Penedo;AL;474.3;505.3;510.2;496.2;680;533.2;Não;Não
+17;Soteiro(a);Branca;M;Inglês;27045552;Penedo;AL;504.2;533.6;569.9;499.2;700;561.38;Sim, um;Sim
+18;Soteiro(a);Preta;F;Inglês;27013995;Palmeira dos Indios;AL;383;531.7;457.6;446.3;600;483.72;Não;Não
+21;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;531.6;504.3;432;476.8;780;544.94;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;518.6;476.2;540.8;581.9;580;539.5;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;399.9;359;383.1;474.3;400;403.26;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;421.5;479.9;518.9;411.8;560;478.42;Não;Sim
+18;Não dec;Preta;F;ESpanhol;27045552;Penedo;AL;427.1;468.4;466.1;399.5;560;464.22;Não;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;449.9;395.6;519.5;431.7;460;451.34;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;543.2;604.3;597.4;516.5;840;620.28;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;583.4;400.4;522.6;617.5;720;568.78;Não;Sim
+20;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;343.3;475.4;478.3;583.9;420;460.18;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;449;437.3;450.5;482;300;423.76;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;474.7;543.6;552.3;434;760;552.92;Sim, um;Sim
+18;Soteiro(a);Não dec;F;ESpanhol;27226239;Coruripe;AL;402.5;560;473;497.1;560;498.52;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;554;487;575.7;618.3;840;615;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27015068;Palmeira dos Indios;AL;403.1;453.5;480.1;474.8;660;494.3;Sim, um;Sim
+17;Soteiro(a);Preta;F;Inglês;27015068;Palmeira dos Indios;AL;382.1;559.3;549.5;454.6;600;509.1;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27042251;Coruripe;AL;448.4;441.2;515.6;455.6;780;528.16;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;412.3;466.3;457.2;448.3;520;460.82;Sim, um;Sim
+20;Soteiro(a);Preta;F;Inglês;27215830;Palmeira dos Indios;AL;383.5;439.9;517.1;598.9;600;507.88;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27226328;Coruripe;AL;512.1;427.5;484.6;449.8;640;502.8;Não;Sim
+18;Soteiro(a);Amarela;F;Inglês;27226328;Coruripe;AL;458.7;464.8;530.9;486.5;400;468.18;Não;Não
+19;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;535.8;545.5;558.5;536.8;860;607.32;Sim, um;Sim
+21;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;464.8;532.4;548.7;478.5;620;528.88;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;375;472;546;597.1;920;582.02;Sim, um;Não
+18;Não dec;Parda;F;ESpanhol;27226328;Coruripe;AL;511.4;492.1;556;417.7;660;527.44;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;536.8;603.2;539.4;589.4;620;577.76;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27047830;Penedo;AL;503.4;479.3;540.2;406.1;600;505.8;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;431.9;490.4;503.7;422.8;420;453.76;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;543.4;479.8;496.8;599.3;800;583.86;Não;Não
+17;Soteiro(a);Branca;F;Inglês;27015068;Palmeira dos Indios;AL;410;487;505.8;416.2;560;475.8;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27045200;Penedo;AL;390.5;371.3;495.8;371.1;620;449.74;Não;Sim
+35;Soteiro(a);Branca;F;ESpanhol;27015068;Palmeira dos Indios;AL;365.9;337.4;451.1;497.5;560;442.38;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27013995;Palmeira dos Indios;AL;415.3;507;463.6;403.1;440;445.8;Não;Não
+19;Soteiro(a);Preta;F;ESpanhol;27215830;Palmeira dos Indios;AL;517.9;488.3;515.3;548.4;680;549.98;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27013901;Palmeira dos Indios;AL;534.9;591.2;530.9;679.1;940;655.22;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014037;Palmeira dos Indios;AL;416.4;528.2;526;480.5;600;510.22;Sim, um;Sim
+19;Soteiro(a);Parda;M;Inglês;27014002;Palmeira dos Indios;AL;420.9;380.3;346.4;415.5;580;428.62;Não;Não
+17;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;427.3;535.9;495;568.7;800;565.38;Não;Sim
+17;Soteiro(a);Branca;F;Inglês;27013901;Palmeira dos Indios;AL;574.8;597.3;646.5;643.5;960;684.42;Não;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27045145;Penedo;AL;382.3;437.8;540;619.8;960;587.98;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27014002;Palmeira dos Indios;AL;479.1;494.4;557.8;639.2;800;594.1;Não;Não
+18;Soteiro(a);Preta;F;Inglês;27050572;Coruripe;AL;504.4;570;569.7;512.9;860;603.4;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;472.4;493.9;512.6;493.4;620;518.46;Sim, um;Sim
+20;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;539.3;503.5;556.2;524.9;800;584.78;Não;Sim
+20;Casado(a);Parda;F;Inglês;27013880;Palmeira dos Indios;AL;431.5;506.2;527.1;506.1;320;458.18;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27014053;Palmeira dos Indios;AL;409.9;361.1;513.6;394.5;700;475.82;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;414;397.3;425.5;414.9;360;402.34;Não;Não
+17;Soteiro(a);Branca;M;Inglês;27014053;Palmeira dos Indios;AL;575.7;541.9;598.6;622;600;587.64;Sim, um;Sim
+16;Soteiro(a);Branca;M;ESpanhol;27220923;Palmeira dos Indios;AL;463.6;535.1;508.4;636;680;564.62;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;396.5;505;466.3;572.7;620;512.1;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27226328;Coruripe;AL;462.4;547.1;526.3;583.9;580;539.94;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;494.2;480.2;439.3;422.4;340;435.22;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27015068;Palmeira dos Indios;AL;399.7;455.3;413.6;447.8;400;423.28;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27013928;Palmeira dos Indios;AL;348.7;438.4;497.8;388.5;420;418.68;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27013901;Palmeira dos Indios;AL;455.3;426.1;505.8;556.9;700;528.82;Não;Sim
+18;Soteiro(a);Branca;F;Inglês;27226328;Coruripe;AL;413.7;365.6;435.3;392.9;680;457.5;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014002;Palmeira dos Indios;AL;457.4;377.2;481.3;519;600;486.98;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;408.3;392.3;426.6;481.6;360;413.76;Não;Sim
+17;Soteiro(a);Não dec;F;ESpanhol;27014029;Palmeira dos Indios;AL;497.6;452.3;512.4;556.5;440;491.76;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;553.3;580.9;595.7;615.5;780;625.08;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27045552;Penedo;AL;406.1;460.8;462;438.6;540;461.5;Não;Sim
+18;Soteiro(a);Branca;M;Inglês;27047830;Penedo;AL;592.7;596.9;552.2;670.7;880;658.5;Sim, dois;Sim
+19;Soteiro(a);Parda;M;Inglês;27014959;Palmeira dos Indios;AL;513.7;522.6;545.7;593.9;580;551.18;Sim, um;Sim
+19;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;502.8;445.4;560.6;617.9;600;545.34;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;380;332.1;384.8;397.5;520;402.88;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27045153;Penedo;AL;519.3;581.5;560.1;448.5;540;529.88;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;419.8;460.2;493;492.1;320;437.02;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;458.8;539;544;509.3;820;574.22;Não;Não
+17;Soteiro(a);Branca;F;Inglês;27220923;Palmeira dos Indios;AL;624.8;613.1;596.5;734.7;820;677.82;Sim, dois;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27045145;Penedo;AL;557.4;620.2;564.7;596.3;560;579.72;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;346.7;335.9;438.4;408.9;520;409.98;Não;Sim
+18;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;583.3;580.6;530.4;650;820;632.86;Não;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;469.8;460;540.2;589.5;680;547.9;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;476.5;383;513.2;432.2;640;488.98;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;408;489.5;549.1;426.6;600;494.64;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014037;Palmeira dos Indios;AL;397.3;454.6;496.5;391.5;500;447.98;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045145;Penedo;AL;424.1;478;469;473.7;680;504.96;Não;Sim
+18;Soteiro(a);Preta;F;Inglês;27226239;Coruripe;AL;516.9;486.8;545;598.9;600;549.52;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;452.6;423.8;392.2;394.1;600;452.54;Sim, um;Sim
+18;Não dec;Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;434.8;474.9;504.1;612.3;740;553.22;Sim, um;Sim
+18;Não dec;Parda;M;Inglês;27226328;Coruripe;AL;373.1;376.1;404.2;385;420;391.68;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;431.6;359.9;378;461;560;438.1;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;595.8;565.5;568.6;612;860;640.38;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27013928;Palmeira dos Indios;AL;431.6;508;505.1;396.9;620;492.32;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;504.4;546.2;540.6;623;880;618.84;Sim, um;Não
+16;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;450.6;589.4;549.5;509.6;740;567.82;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;500.1;423.3;466;480.9;460;466.06;Não;Não
+18;Soteiro(a);Preta;F;ESpanhol;27014029;Palmeira dos Indios;AL;517.3;573.7;569.6;381.7;760;560.46;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27014908;Palmeira dos Indios;AL;487.4;489.6;437.7;406.9;680;500.32;Não;Não
+17;Soteiro(a);Preta;M;ESpanhol;27014029;Palmeira dos Indios;AL;381.7;489.7;557.5;683.7;880;598.52;Não;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27014029;Palmeira dos Indios;AL;385.5;388.5;394.7;364.3;560;418.6;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27047830;Penedo;AL;578.3;622.8;596.4;599.7;980;675.44;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045552;Penedo;AL;410.7;399.1;508.7;388.8;480;437.46;Sim, um;Sim
+19;Soteiro(a);Branca;M;Inglês;27045145;Penedo;AL;370;462.8;476.5;376.5;480;433.16;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;547;582.9;610.9;768.6;900;681.88;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27013928;Palmeira dos Indios;AL;448.4;477.9;420.1;364.8;480;438.24;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;345.9;453;438.1;466.9;580;456.78;Não;Não
+20;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;510.2;572.2;540.2;596.2;580;559.76;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;384.9;442.8;464;401.7;540;446.68;Não;Não
+19;Soteiro(a);Preta;F;ESpanhol;27215830;Palmeira dos Indios;AL;505.2;514.4;560.5;669.1;800;609.84;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27045234;Penedo;AL;438;412.3;497.7;462.2;360;434.04;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;344.6;470.6;413.7;481.3;420;426.04;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;384.9;499.8;501.3;631.5;440;491.5;Não;Sim
+21;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;523.6;509;537.2;537.1;940;609.38;Sim, um;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27013928;Palmeira dos Indios;AL;399.8;448.4;495.5;492;480;463.14;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27014002;Palmeira dos Indios;AL;397.8;409.6;470.8;375.9;620;454.82;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;550;524.2;582.6;672.7;840;633.9;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;504;580.1;550.9;522.2;800;591.44;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27014010;Palmeira dos Indios;AL;486.4;447.2;493.3;413.2;480;464.02;Sim, um;Não
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;522.7;611;600.9;634.6;740;621.84;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;485.4;494.4;550.3;513.1;560;520.64;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;477.4;496.9;479;381.3;580;482.92;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27215830;Palmeira dos Indios;AL;399;522.6;548.7;637.1;880;597.48;Sim, um;Sim
+19;Soteiro(a);Indigena;M;Inglês;27215830;Palmeira dos Indios;AL;536.4;616.4;617.8;703.4;660;626.8;Sim, dois;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27220923;Palmeira dos Indios;AL;550.4;617.3;596;559.6;760;616.66;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;452.2;453.6;485.3;403.6;560;470.94;Não;Não
+18;Soteiro(a);Preta;M;ESpanhol;27047830;Penedo;AL;473.5;504.3;453.8;386.8;320;427.68;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;437.9;482.9;446.3;401.2;640;481.66;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27045552;Penedo;AL;419.3;337.4;487.6;491.2;480;443.1;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27014002;Palmeira dos Indios;AL;472.2;502;453.5;483.9;760;534.32;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;358;468.5;470.8;447;720;492.86;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;475.3;443.6;527.4;620.9;540;521.44;Não;Não
+19;Soteiro(a);Branca;M;ESpanhol;27013928;Palmeira dos Indios;AL;392.6;423.5;496.3;480.4;580;474.56;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;429.3;377.4;511.2;454.3;920;538.44;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;489;410.2;405.6;504.2;340;429.8;Não;Sim
+32;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;472.1;393.5;501.8;455.1;560;476.5;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27045552;Penedo;AL;391.4;382.8;474;411;420;415.84;Sim, um;Sim
+17;Soteiro(a);Branca;M;Inglês;27220923;Palmeira dos Indios;AL;554.4;578;566.2;617.1;880;639.14;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27226239;Coruripe;AL;532.1;379.6;490.8;432.1;500;466.92;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;423.1;386.3;512.6;625.7;560;501.54;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27014959;Palmeira dos Indios;AL;359.3;520.7;502.2;433.5;440;451.14;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;419.2;423.5;519.1;553.7;760;535.1;Sim, um;Sim
+19;Soteiro(a);Preta;F;ESpanhol;27014029;Palmeira dos Indios;AL;473.5;435.3;432.6;464;620;485.08;Não;Não
+18;Soteiro(a);Preta;M;ESpanhol;27042251;Coruripe;AL;502;516.1;522.1;436.3;580;511.3;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27013928;Palmeira dos Indios;AL;365;424.1;538.1;486.3;560;474.7;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;362.4;367.3;390.6;440.7;580;428.2;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27013928;Palmeira dos Indios;AL;363.1;355;367.5;576.5;380;408.42;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27013979;Palmeira dos Indios;AL;348.2;487.4;452.7;432.3;640;472.12;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;560.5;498.7;580.1;572.3;740;590.32;Sim, um;Sim
+18;Soteiro(a);Preta;M;Inglês;27047830;Penedo;AL;557.8;566.9;625.1;660.7;660;614.1;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27045153;Penedo;AL;606.9;613.1;608.2;710.9;800;667.82;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045153;Penedo;AL;515.6;548.5;518.8;599.4;920;620.46;Não;Sim
+20;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;469.4;516.9;493.9;533.6;680;538.76;Sim, um;Sim
+19;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;543.8;566.2;550.8;476.8;780;583.52;Sim, um;Sim
+17;Soteiro(a);Preta;F;Inglês;27045145;Penedo;AL;396.4;489.2;501.9;438.9;580;481.28;Não;Sim
+18;Não dec;Parda;F;ESpanhol;27226239;Coruripe;AL;412.6;469.2;409.7;452;600;468.7;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27045552;Penedo;AL;401.7;414.5;487.2;535.8;480;463.84;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;355.1;376.7;406.4;536;520;438.84;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;558.1;422.5;509.3;453.7;520;492.72;Sim, um;Sim
+16;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;481.7;436.9;533.5;493.5;420;473.12;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27045200;Penedo;AL;399.6;353.5;452.7;451.6;480;427.48;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;572;579.2;608.9;689.1;940;677.84;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;391.8;542.4;510;420.4;600;492.92;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27014010;Palmeira dos Indios;AL;439.3;556.3;539.1;491.6;640;533.26;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27226166;Penedo;AL;547.8;565.3;547.3;600.4;760;604.16;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;491.1;581.2;557.7;498;820;589.6;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;502.7;591.7;555.9;715.6;820;637.18;Sim, um;Sim
+20;Soteiro(a);Não dec;F;ESpanhol;27215830;Palmeira dos Indios;AL;506.8;535.3;547.3;562.1;680;566.3;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27045552;Penedo;AL;482.3;513.8;570.8;495.5;800;572.48;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;356.6;427.5;438.6;412.4;560;439.02;Não;Sim
+16;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;415.8;516.7;556.9;607.7;800;579.42;Sim, dois;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;452;564.6;543.7;557.9;800;583.64;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27045552;Penedo;AL;472.5;508;485.1;512.8;600;515.68;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27045200;Penedo;AL;438.7;399.4;507.5;484.2;760;517.96;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27015068;Palmeira dos Indios;AL;417.9;462.5;479.3;425.2;600;476.98;Não;Não
+19;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;539.4;563.4;554.7;509;700;573.3;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27014053;Palmeira dos Indios;AL;484.5;502.6;512.6;517.3;560;515.4;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;352.5;524.2;408.5;508;360;430.64;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;428.9;546.9;488.9;517.8;540;504.5;Sim, dois;Sim
+17;Soteiro(a);Preta;M;ESpanhol;27014029;Palmeira dos Indios;AL;522.1;569;565.3;487.7;660;560.82;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;446.7;563.6;522.3;457.6;620;522.04;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;395.9;357.4;429.1;393.9;580;431.26;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27045200;Penedo;AL;419.8;443.2;515.4;466.1;840;536.9;Não;Não
+20;Soteiro(a);Indigena;M;ESpanhol;27014959;Palmeira dos Indios;AL;430.9;572.6;548.6;378.7;540;494.16;Não;Não
+18;Soteiro(a);Branca;F;Inglês;27013928;Palmeira dos Indios;AL;502;476.9;413.8;469.5;500;472.44;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27014002;Palmeira dos Indios;AL;398.9;478.9;490.8;370.8;540;455.88;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27014932;Palmeira dos Indios;AL;351.6;470.1;515.4;392.1;660;477.84;Não;Não
+17;Soteiro(a);Parda;M;Inglês;27014010;Palmeira dos Indios;AL;555.9;530.8;509.1;489;320;480.96;Não;Não
+17;Soteiro(a);Branca;F;ESpanhol;27014908;Palmeira dos Indios;AL;436.2;389.1;418.2;466.3;560;453.96;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27042251;Coruripe;AL;373;469.8;492.6;492.6;800;525.6;Sim, um;Sim
+17;Soteiro(a);Preta;M;ESpanhol;27014959;Palmeira dos Indios;AL;393.1;499.5;560.6;663;760;575.24;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;547.4;587.7;600.5;700.5;860;659.22;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;482.1;578.6;566.8;562.1;880;613.92;Sim, um;Sim
+18;Soteiro(a);Amarela;F;ESpanhol;27047830;Penedo;AL;506.7;519.6;540.4;557.1;560;536.76;Não;Sim
+17;Soteiro(a);Amarela;F;ESpanhol;27013928;Palmeira dos Indios;AL;525.2;538.2;565.1;396.8;640;533.06;Não;Sim
+19;Soteiro(a);Preta;M;ESpanhol;27215830;Palmeira dos Indios;AL;579.8;630.8;573.3;715.2;800;659.82;Não;Não
+18;Soteiro(a);Indigena;M;ESpanhol;27014037;Palmeira dos Indios;AL;416.7;394.7;417.1;439.6;460;425.62;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27045200;Penedo;AL;552.4;499.4;557.3;482.9;580;534.4;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27014932;Palmeira dos Indios;AL;367.9;511.5;482.4;427.9;300;417.94;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;537.7;553.1;552;549.6;640;566.48;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27014010;Palmeira dos Indios;AL;360.1;408.3;323.6;431.3;340;372.66;Não;Sim
+19;Soteiro(a);Amarela;F;Inglês;27013928;Palmeira dos Indios;AL;453.5;379.5;485.5;492;580;478.1;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;485.3;563.2;548.4;513.8;740;570.14;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;367.7;389.9;509.4;399.5;400;413.3;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;598;603.1;573.9;544.5;880;639.9;Sim, um;Não
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;469.4;427;394.7;363.4;460;422.9;Não;Não
+17;Soteiro(a);Preta;F;Inglês;27013928;Palmeira dos Indios;AL;394.6;428.3;399.5;414.3;400;407.34;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27014932;Palmeira dos Indios;AL;391.3;429.2;491.1;362.8;600;454.88;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;404.9;398.7;439.7;524;460;445.46;Sim, um;Não
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;436.4;388.7;511.9;402.7;660;479.94;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;512.5;487.7;535.4;405.7;660;520.26;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27014959;Palmeira dos Indios;AL;350.2;362.6;450.3;420;540;424.62;Não;Sim
+17;Separado(a);Branca;M;Inglês;27014029;Palmeira dos Indios;AL;450.4;532.6;456.3;572.3;320;466.32;Sim, um;Sim
+19;Soteiro(a);Branca;F;Inglês;27226239;Coruripe;AL;402.8;441;500.9;500.6;300;429.06;Não;Não
+20;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;558.2;583;579.7;591;560;574.38;Não;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;510.1;566.7;553.8;543.9;900;614.9;Não;Sim
+20;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;562.4;602.8;596.9;700.2;560;604.46;Sim, um;Sim
+19;Soteiro(a);Preta;M;Inglês;27050572;Coruripe;AL;555.5;575.4;592.9;745.1;880;669.78;Sim, um;Sim
+16;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;443.7;534;512.2;421;800;542.18;Não;Sim
+18;Não dec;Branca;M;ESpanhol;27042251;Coruripe;AL;406.3;434;426.2;479.4;440;437.18;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27220923;Palmeira dos Indios;AL;576.8;602.9;569.6;665.1;940;670.88;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;391.7;486.4;510.8;551.5;920;572.08;Sim, dois;Sim
+19;Soteiro(a);Preta;M;ESpanhol;27014959;Palmeira dos Indios;AL;433.6;409.1;490.1;432.9;360;425.14;Não;Não
+18;Soteiro(a);Preta;M;Inglês;27014010;Palmeira dos Indios;AL;438;382.3;378.7;458.4;860;503.48;Não;Não
+18;Não dec;Parda;F;Inglês;27045145;Penedo;AL;419.1;382.1;450.9;406;520;435.62;Não;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27226328;Coruripe;AL;411.2;486.3;488.9;459.8;680;505.24;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27045552;Penedo;AL;428.5;421.2;445.6;442.6;480;443.58;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;356.3;463.9;455.3;438.6;620;466.82;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;407.3;438.3;457.1;363;480;429.14;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;419.1;360.1;423.5;374.4;460;407.42;Não;Não
+17;Soteiro(a);Preta;M;Inglês;27014010;Palmeira dos Indios;AL;486.9;585.2;561.7;470.6;660;552.88;Não;Não
+17;Soteiro(a);Branca;F;Inglês;27014959;Palmeira dos Indios;AL;423.4;481.7;519.1;618.1;640;536.46;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;390.9;358.3;419.5;409.6;460;407.66;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;456.3;567;554.3;539.2;760;575.36;Não;Não
+18;Soteiro(a);Amarela;F;ESpanhol;27013928;Palmeira dos Indios;AL;495.2;505.5;496.1;377.1;520;478.78;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;409.9;478.2;492.6;383.4;480;448.82;Não;Não
+18;Soteiro(a);Amarela;M;ESpanhol;27215830;Palmeira dos Indios;AL;570.2;556.8;556.6;663;600;589.32;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;428.6;484.8;515.1;392.6;420;448.22;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;415.7;389;419.6;487.1;660;474.28;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;544.8;597.4;582.7;698.9;840;652.76;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;354.5;496.2;478.1;364.2;680;474.6;Sim, um;Sim
+20;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;425.7;451.6;463.1;449.3;300;417.94;Sim, um;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27215830;Palmeira dos Indios;AL;546.1;533.8;583;609.7;540;562.52;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;557.6;497.3;536.6;585.6;700;575.42;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;373.5;497.4;517.6;509.2;520;483.54;Não;Sim
+20;Soteiro(a);Preta;F;ESpanhol;27050572;Coruripe;AL;445;518.5;525;425.2;580;498.74;Não;Não
+17;Não dec;Branca;M;ESpanhol;27220923;Palmeira dos Indios;AL;498.8;445;387.5;419.8;620;474.22;Sim, dois;Sim
+16;Soteiro(a);Amarela;F;ESpanhol;27220923;Palmeira dos Indios;AL;506.6;567.3;584.6;511.8;580;550.06;Não;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27013928;Palmeira dos Indios;AL;427.3;377.1;429.9;431.9;340;401.24;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;509.1;528.8;515.8;461.3;680;539;Sim, um;Não
+18;Soteiro(a);Preta;M;ESpanhol;27047830;Penedo;AL;474.8;543.2;570.3;525;560;534.66;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27014002;Palmeira dos Indios;AL;473.3;469.7;482.7;431.2;560;483.38;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;483.7;446.5;500.5;547.7;880;571.68;Sim, um;Não
+18;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;589.8;582.9;599.2;714.5;940;685.28;Sim, dois;Sim
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;575.6;556.3;592.2;580;760;612.82;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;531.1;546.9;481;529.7;740;565.74;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27050572;Coruripe;AL;515.3;418.5;453.4;388.4;720;499.12;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;382.8;571.1;546.3;536.8;700;547.4;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27014037;Palmeira dos Indios;AL;482.4;551.1;520.8;443.8;320;463.62;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27014959;Palmeira dos Indios;AL;407.6;451;391.1;396.9;640;457.32;Não;Sim
+26;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;338;558.3;467.1;468.4;460;458.36;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;529.1;435.7;545.2;476.5;600;517.3;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27045552;Penedo;AL;426.6;485.4;514.6;367.2;520;462.76;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;494.1;474.6;505.7;655.5;480;521.98;Não;Não
+18;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;483.5;494.6;532;433.3;500;488.68;Não;Não
+19;Soteiro(a);Parda;M;Inglês;27226328;Coruripe;AL;493.3;363;352.6;410.6;380;399.9;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27226328;Coruripe;AL;439.4;357.1;438.9;449.8;580;453.04;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;552;486.1;562.9;458.1;580;527.82;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27014959;Palmeira dos Indios;AL;408.3;394;475.3;389.6;580;449.44;Não;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27014959;Palmeira dos Indios;AL;426.6;386.3;437.2;390.3;680;464.08;Não;Não
+17;Soteiro(a);Preta;F;ESpanhol;27014029;Palmeira dos Indios;AL;485.1;563.7;554.6;519.4;600;544.56;Não;Não
+19;Soteiro(a);Preta;F;ESpanhol;27050572;Coruripe;AL;389.8;445.1;494.9;566.7;640;507.3;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27014959;Palmeira dos Indios;AL;357.2;409.5;373.2;491.9;480;422.36;Não;Não
+18;Soteiro(a);Preta;F;ESpanhol;27045145;Penedo;AL;434.1;406.4;428.1;424.4;660;470.6;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27045200;Penedo;AL;414.3;380.4;499.2;491.7;460;449.12;Sim, um;Sim
+21;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;500.7;504.6;542.7;579.8;600;545.56;Não;Sim
+18;Soteiro(a);Branca;M;Inglês;27050572;Coruripe;AL;640.4;649.6;620.7;780.1;960;730.16;Sim, dois;Sim
+17;Não dec;Parda;M;ESpanhol;27045552;Penedo;AL;376.8;363.2;459.7;463;380;408.54;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27045552;Penedo;AL;403.8;443.6;393.8;464.2;600;461.08;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;401.3;459;498.6;379.6;360;419.7;Não;Não
+20;Soteiro(a);Branca;M;Inglês;27047830;Penedo;AL;586.4;630.5;575.5;692;880;672.88;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27045200;Penedo;AL;356;367.3;432.6;495.6;620;454.3;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;347.7;460.3;456.4;460.8;480;441.04;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27220923;Palmeira dos Indios;AL;526.4;458;534;553.8;660;546.44;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;489.8;503.6;434;495.9;800;544.66;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;457.1;602.9;648.3;754.3;940;680.52;Sim, dois;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27220923;Palmeira dos Indios;AL;413.5;458.5;521.8;455.4;560;481.84;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27015068;Palmeira dos Indios;AL;557.8;587.3;563.8;640.1;620;593.8;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27013901;Palmeira dos Indios;AL;470;473;513.1;485.7;860;560.36;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;355.8;415.5;467.1;427;500;433.08;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27226239;Coruripe;AL;477;409.9;458.6;430.4;600;475.18;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;715;739.4;616.4;850.9;900;764.34;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27013928;Palmeira dos Indios;AL;447.1;500.5;465.8;436.3;440;457.94;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27013928;Palmeira dos Indios;AL;485.2;389.6;437.2;491.6;540;468.72;Não;Sim
+18;Casado(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;405.9;442.6;466.9;440.3;520;455.14;Não;Sim
+18;Soteiro(a);Preta;M;Inglês;27045145;Penedo;AL;356.5;337.3;381.8;396.7;500;394.46;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27226239;Coruripe;AL;499.2;488.4;461.4;392.8;580;484.36;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;573.9;534.7;559.7;498.7;660;565.4;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;466.2;451.8;458;476.9;340;438.58;Não;Não
+19;Soteiro(a);Branca;M;Inglês;27050572;Coruripe;AL;544.6;610.2;531.3;662.4;640;597.7;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27015068;Palmeira dos Indios;AL;362.1;473.1;467.6;382.6;300;397.08;Sim, um;Sim
+19;Soteiro(a);Parda;M;Inglês;27045234;Penedo;AL;450.8;469.6;408;432.6;520;456.2;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27013928;Palmeira dos Indios;AL;357.6;477.6;518.4;480.2;500;466.76;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;370.1;375.3;469.9;392;400;401.46;Não;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27013995;Palmeira dos Indios;AL;374.9;460.6;429.4;450;420;426.98;Não;Não
+26;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;436.2;575.6;532.2;466.3;520;506.06;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;529.7;617.6;580.7;665;840;646.6;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;499;518.4;509.5;436.5;580;508.68;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;590.1;595.3;567.8;617.7;700;614.18;Sim, dois;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;493.7;544.1;567.1;676.6;820;620.3;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014037;Palmeira dos Indios;AL;508.8;526.5;550.4;576.3;600;552.4;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;530.9;436.3;497.5;578.7;800;568.68;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27013995;Palmeira dos Indios;AL;423.2;413.1;417.9;411.1;480;429.06;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;384.5;477.1;505;393;640;479.92;Não;Sim
+20;Soteiro(a);Preta;M;ESpanhol;27014010;Palmeira dos Indios;AL;395.6;480.5;327.4;382.8;460;409.26;Sim, um;Não
+18;Soteiro(a);Preta;M;ESpanhol;27215830;Palmeira dos Indios;AL;477.8;575.8;588.9;716.3;600;591.76;Sim, um;Sim
+17;Soteiro(a);Parda;M;Inglês;27220923;Palmeira dos Indios;AL;564.4;613.3;583.5;634.4;640;607.12;Sim, um;Sim
+18;Soteiro(a);Preta;F;Inglês;27042251;Coruripe;AL;353.5;462.4;448.9;449.9;540;450.94;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;365.9;322;457.9;371.4;520;407.44;Não;Sim
+17;Soteiro(a);Preta;M;Inglês;27014010;Palmeira dos Indios;AL;476.9;534.3;507.5;474.2;640;526.58;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;559.2;548;567.2;707.9;620;600.46;Sim, um;Sim
+19;Soteiro(a);Preta;M;Inglês;27047830;Penedo;AL;458.8;519.9;543.5;623.7;560;541.18;Não;Não
+21;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;443.7;480.9;465.5;499;520;481.82;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;356.1;354.4;394.8;408.7;540;410.8;Não;Sim
+28;Soteiro(a);Amarela;F;ESpanhol;27014029;Palmeira dos Indios;AL;434.4;402.1;498.2;394.6;540;453.86;Não;Não
+17;Soteiro(a);Preta;F;ESpanhol;27045552;Penedo;AL;371.8;487.6;532.7;548.8;600;508.18;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27226166;Penedo;AL;402.2;450.5;537.4;498.5;780;533.72;Não;Não
+19;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;461.1;625.7;569.9;634.1;920;642.16;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;461.4;539.3;477.2;449.9;580;501.56;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;577.6;583.4;623.4;705.5;660;629.98;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;470.2;524.1;494.3;500.2;880;573.76;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;490.5;590.3;561.6;510.2;540;538.52;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27226328;Coruripe;AL;519.5;400;545.9;513.6;660;527.8;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27045137;Penedo;AL;514.6;525.6;542.1;540.9;800;584.64;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27015068;Palmeira dos Indios;AL;395.8;443.4;488.2;429.1;600;471.3;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27045145;Penedo;AL;577;600.8;565.4;519.6;620;576.56;Não;Sim
+18;Casado(a);Parda;F;ESpanhol;27042251;Coruripe;AL;470.5;540.1;567.7;534.4;740;570.54;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27014053;Palmeira dos Indios;AL;421.7;471.9;507.9;581.5;580;512.6;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;463.8;567.6;587.2;657.5;740;603.22;Não;Sim
+18;Soteiro(a);Não dec;F;ESpanhol;27215830;Palmeira dos Indios;AL;551.8;564.1;547.3;666.9;760;618.02;Sim, um;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27013928;Palmeira dos Indios;AL;440.8;444;383.6;480.4;480;445.76;Não;Sim
+18;Soteiro(a);Branca;M;Inglês;27013979;Palmeira dos Indios;AL;466.7;365.2;388.8;562;340;424.54;Não;Sim
+18;Soteiro(a);Preta;M;Inglês;27045234;Penedo;AL;504.2;529.6;517.2;532.8;500;516.76;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27013995;Palmeira dos Indios;AL;504.3;376.1;409.6;552.7;720;512.54;Não;Não
+18;Não dec;Branca;M;Inglês;27226328;Coruripe;AL;465.2;446.7;523.1;371.7;560;473.34;Não;Sim
+17;Soteiro(a);Amarela;M;ESpanhol;27042251;Coruripe;AL;517.9;510;494;636.5;520;535.68;Não;Não
+17;Soteiro(a);Branca;M;Inglês;27015068;Palmeira dos Indios;AL;465.6;560.1;572.3;668.1;760;605.22;Não;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27050572;Coruripe;AL;493.6;532.4;521;717.6;640;580.92;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;434.1;455.1;515.6;610.5;580;519.06;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27050572;Coruripe;AL;474.6;510.9;539.1;670.8;840;607.08;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;390;501.9;476.6;426.3;620;482.96;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;400.6;363.4;354.2;515.2;480;422.68;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014932;Palmeira dos Indios;AL;407.2;414.5;490.2;404.3;440;431.24;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27014959;Palmeira dos Indios;AL;432.8;444.8;488.8;442.9;340;429.86;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27014029;Palmeira dos Indios;AL;439.2;503.5;525.5;386.6;460;462.96;Não;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27014029;Palmeira dos Indios;AL;479.2;539.8;517.2;608.8;640;557;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;378.4;506;466.5;463.2;540;470.82;Sim, um;Não
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;449.2;443.2;350.7;479.3;580;460.48;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;506.2;576.3;539.9;514.2;520;531.32;Sim, um;Não
+17;Soteiro(a);Parda;F;ESpanhol;27014932;Palmeira dos Indios;AL;388.8;484.6;469.6;439.3;320;420.46;Não;Não
+17;Soteiro(a);Não dec;M;ESpanhol;27014053;Palmeira dos Indios;AL;437.9;420.3;447.7;497.2;620;484.62;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;502;523.5;566.6;556.8;660;561.78;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27042251;Coruripe;AL;354.8;317.7;489.1;436.9;720;463.7;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;547.3;560.4;532.1;702.1;660;600.38;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27042251;Coruripe;AL;427;427.1;524.4;373.6;560;462.42;Não;Sim
+17;Soteiro(a);Amarela;F;ESpanhol;27014010;Palmeira dos Indios;AL;437.1;457.8;520.5;455.6;600;494.2;Não;Sim
+18;Soteiro(a);Preta;M;Inglês;27045234;Penedo;AL;570;618.6;550.4;650.3;620;601.86;Não;Não
+17;Soteiro(a);Preta;M;ESpanhol;27045552;Penedo;AL;455.7;337.4;512;513.9;420;447.8;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27047830;Penedo;AL;386.3;450.2;517.6;410.4;520;456.9;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;415.6;492.3;530.4;475;600;502.66;Sim, um;Não
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;426;522.6;550.8;416.9;820;547.26;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27215474;Penedo;AL;407.7;468;422.2;527.2;620;489.02;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;446.1;519.2;551.1;404.9;700;524.26;Não;Não
+17;Não dec;Parda;F;ESpanhol;27226239;Coruripe;AL;453.6;501.3;516.5;501.5;600;514.58;Não;Sim
+17;Separado(a);Não dec;M;ESpanhol;27014053;Palmeira dos Indios;AL;398.9;443;425.8;449.4;600;463.42;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;405.5;417.7;370.5;481.9;480;431.12;Não;Não
+18;Soteiro(a);Amarela;F;ESpanhol;27050572;Coruripe;AL;376.3;499.7;541.2;475.4;500;478.52;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;348.4;417.1;395.2;530;460;430.14;Não;Não
+20;Soteiro(a);Parda;M;Inglês;27013979;Palmeira dos Indios;AL;380.3;460.4;467;368;460;427.14;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;545.3;454.8;575.2;599.9;600;555.04;Sim, um;Sim
+19;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;458.7;478.7;514.3;519;560;506.14;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014932;Palmeira dos Indios;AL;395.7;445.7;503.3;483.2;500;465.58;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27050572;Coruripe;AL;583.7;606;544.6;777.2;620;626.3;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;539.5;586.9;602.8;536.6;720;597.16;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27045153;Penedo;AL;559.6;521.4;512.2;681;580;570.84;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014959;Palmeira dos Indios;AL;472.4;441.8;374.5;451.3;540;456;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27014029;Palmeira dos Indios;AL;421.5;465.7;496.2;442.9;460;457.26;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;439;396.8;511.6;432.6;400;436;Não;Não
+17;Soteiro(a);Branca;F;ESpanhol;27226239;Coruripe;AL;448.4;544;554.7;403.3;620;514.08;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;376.6;546.6;559.8;429.4;640;510.48;Não;Não
+20;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;491.2;524.9;572.7;505.4;660;550.84;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27226328;Coruripe;AL;398.8;459.5;454.5;599.7;360;454.5;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27226328;Coruripe;AL;478.3;347.6;474;452.7;300;410.52;Não;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;421.7;586.8;588.2;675.5;500;554.44;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;478.9;481;481.2;473.7;600;502.96;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;404.4;477.6;449.6;473.5;340;429.02;Não;Não
+17;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;508.9;530.3;548.7;421.6;580;517.9;Não;Sim
+19;Soteiro(a);Preta;F;ESpanhol;27015068;Palmeira dos Indios;AL;394.1;500.7;510.6;437.8;540;476.64;Não;Sim
+20;Soteiro(a);Branca;F;ESpanhol;27226239;Coruripe;AL;465.4;562.6;537.2;420;580;513.04;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014908;Palmeira dos Indios;AL;382.4;337.1;422.6;406;480;405.62;Não;Não
+18;Soteiro(a);Preta;M;Inglês;27014037;Palmeira dos Indios;AL;356.8;510.4;533.3;460.1;680;508.12;Não;Não
+17;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;580.9;649.3;663;567.5;700;632.14;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;384;473.3;494.8;459.4;680;498.3;Sim, dois;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;511;431.5;512.3;366;460;456.16;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;502.8;446.5;465.2;545.8;780;548.06;Não;Sim
+20;Soteiro(a);Amarela;F;Inglês;27045234;Penedo;AL;418.5;450.4;433.7;370.5;500;434.62;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;464.9;402.2;486.9;483.9;320;431.58;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27014959;Palmeira dos Indios;AL;560.9;546.2;548;414.2;520;517.86;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;440;533.6;567.8;476.5;880;579.58;Sim, um;Sim
+19;Soteiro(a);Preta;M;Inglês;27014029;Palmeira dos Indios;AL;502.3;543.6;580;645.1;840;622.2;Sim, um;Sim
+18;Soteiro(a);Preta;F;Inglês;27014029;Palmeira dos Indios;AL;370.7;501.2;449.6;453.1;560;466.92;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27013928;Palmeira dos Indios;AL;416.3;475.9;513;459.3;300;432.9;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27014029;Palmeira dos Indios;AL;507.5;554.8;545.2;466.1;680;550.72;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27013979;Palmeira dos Indios;AL;392.5;414.2;412.2;493;440;430.38;Não;Sim
+17;Soteiro(a);Preta;F;Inglês;27226239;Coruripe;AL;414.2;457.8;375.9;406.9;500;430.96;Não;Não
+16;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;504.5;459.6;537.5;608.6;460;514.04;Sim, um;Sim
+17;Soteiro(a);Amarela;F;ESpanhol;27045234;Penedo;AL;400.2;448;554.8;486.4;720;521.88;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;375.2;494.3;504.8;391.7;680;489.2;Não;Não
+18;Soteiro(a);Branca;M;ESpanhol;27013979;Palmeira dos Indios;AL;469.7;421;519.5;449.2;340;439.88;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;376;486.1;568.3;532.8;520;496.64;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27045200;Penedo;AL;457.4;451.3;472.1;443.1;580;480.78;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;430.5;546.5;532.1;403.9;480;478.6;Não;Não
+17;Soteiro(a);Parda;M;Inglês;27013928;Palmeira dos Indios;AL;423.2;486.3;521.6;525;560;503.22;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;384.9;471.3;425;403.3;540;444.9;Não;Não
+18;Soteiro(a);Amarela;M;ESpanhol;27045145;Penedo;AL;453.7;565.9;538.7;530.7;580;533.8;Não;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27042251;Coruripe;AL;394;466;418.6;440.1;520;447.74;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;437.6;569.8;566.7;550.6;760;576.94;Não;Sim
+19;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;495.7;573.6;564.5;479.5;780;578.66;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014959;Palmeira dos Indios;AL;389.1;484.6;353.1;549.2;520;459.2;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27014959;Palmeira dos Indios;AL;401.6;514.8;456.8;618.9;760;550.42;Não;Não
+17;Não dec;Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;454.4;551.8;574.2;681.2;840;620.32;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;414.4;446.5;454.1;470;900;537;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;530.1;583.4;552.4;549.8;860;615.14;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27220923;Palmeira dos Indios;AL;570.6;618.5;604.9;625.6;740;631.92;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27013979;Palmeira dos Indios;AL;343.4;426.6;454.6;401.5;600;445.22;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;419.4;427.8;424.5;369.7;480;424.28;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;453.6;535.4;503;483.4;580;511.08;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27013979;Palmeira dos Indios;AL;381.9;412.7;505.5;391.2;480;434.26;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;411.6;473.6;511.8;565.2;700;532.44;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27014959;Palmeira dos Indios;AL;423;533.8;484.8;444.9;760;529.3;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27013901;Palmeira dos Indios;AL;531.3;551.3;564.4;629.7;820;619.34;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;558.3;597.4;544.8;713.7;700;622.84;Não;Não
+17;Soteiro(a);Parda;M;Inglês;27013928;Palmeira dos Indios;AL;395.5;418;342.7;420.5;360;387.34;Sim, um;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;513.3;507.3;543.7;617.6;740;584.38;Sim, um;Sim
+17;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;640.1;679.6;673.3;908.9;940;768.38;Sim, um;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27013979;Palmeira dos Indios;AL;411.6;385.8;362.2;373.3;360;378.58;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27013995;Palmeira dos Indios;AL;456.7;322.9;353.6;447.9;540;424.22;Não;Não
+16;Soteiro(a);Branca;F;Inglês;27014029;Palmeira dos Indios;AL;495.2;524.6;511.3;468.8;720;543.98;Não;Não
+18;Soteiro(a);Branca;F;Inglês;27013901;Palmeira dos Indios;AL;392.6;370.5;459.5;523;580;465.12;Sim, dois;Sim
+18;Soteiro(a);Branca;F;Inglês;27014959;Palmeira dos Indios;AL;520.7;520.5;512.7;478.8;900;586.54;Sim, um;Sim
+21;Soteiro(a);Parda;M;ESpanhol;27045145;Penedo;AL;452.4;427.6;452.8;446.4;600;475.84;Sim, um;Sim
+17;Soteiro(a);Preta;F;Inglês;27045145;Penedo;AL;527.4;528;535.8;636.7;580;561.58;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;437.9;455.7;497.3;365.9;400;431.36;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;553.2;594;552.1;772.3;760;646.32;Sim, um;Sim
+17;Soteiro(a);Não dec;M;ESpanhol;27013901;Palmeira dos Indios;AL;543.7;571.4;595.7;498.1;760;593.78;Sim, um;Sim
+18;Soteiro(a);Branca;F;Inglês;27226239;Coruripe;AL;339.9;401.4;518.5;382.5;520;432.46;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;384.5;473.8;445.6;404.4;560;453.66;Não;Não
+18;Não dec;Parda;M;Inglês;27045234;Penedo;AL;530.2;552.8;575;645.6;620;584.72;Não;Não
+20;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;570.5;606.4;604.7;719.7;920;684.26;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27014932;Palmeira dos Indios;AL;424;506.2;581.5;362.6;600;494.86;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;443.6;451.4;415.9;439.3;520;454.04;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;456.3;504.2;526.7;558.2;600;529.08;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;450.5;483.4;486.8;407.7;560;477.68;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;540.7;603.7;502.4;765.1;640;610.38;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;440;475.3;465.4;425.5;500;461.24;Não;Não
+20;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;504.8;588.7;545;481.7;600;544.04;Não;Não
+22;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;498.5;473.7;494;459.5;560;497.14;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27013901;Palmeira dos Indios;AL;488.9;576.8;564.6;630;740;600.06;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045137;Penedo;AL;486.3;488.7;507.4;614.4;600;539.36;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27013901;Palmeira dos Indios;AL;494.4;501.5;516.9;529.1;600;528.38;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27226239;Coruripe;AL;408.1;445;501.9;493.1;560;481.62;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27226328;Coruripe;AL;403;471.1;396.5;395.1;600;453.14;Sim, um;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27047830;Penedo;AL;555;573.6;587.3;688;720;624.78;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;454.5;524.8;526;549.3;360;482.92;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27215474;Penedo;AL;381.2;456;443.6;597.8;680;511.72;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;523.6;504.6;537.5;435.5;520;504.24;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;413.9;354;413;379.7;440;400.12;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27045145;Penedo;AL;479.5;451;531.4;453.2;560;495.02;Sim, um;Sim
+17;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;605.7;621.7;582.6;650.5;780;648.1;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;579.4;612.1;566.2;730.2;840;665.58;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27045234;Penedo;AL;380.6;363.7;472.4;442.2;660;463.78;Não;Sim
+18;Soteiro(a);Preta;M;Inglês;27047830;Penedo;AL;450.6;437.1;515.2;561.4;600;512.86;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27013928;Palmeira dos Indios;AL;573.3;577.1;554.8;496.8;580;556.4;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;570;593.8;576.4;648.8;580;593.8;Sim, dois;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;406.6;517.8;457.4;435.1;480;459.38;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27226239;Coruripe;AL;456.1;415.4;397.9;469;420;431.68;Não;Sim
+22;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;442.2;387.2;429.4;372.1;460;418.18;Sim, um;Sim
+17;Soteiro(a);Indigena;M;ESpanhol;27014029;Palmeira dos Indios;AL;405;486;519.1;585;580;515.02;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215342;Penedo;AL;512.8;484.4;567.4;495.7;720;556.06;Não;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;519.3;462.6;607.2;406.5;800;559.12;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27226166;Penedo;AL;453.5;455;505.6;462.2;620;499.26;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045145;Penedo;AL;421.4;541.4;506.8;523.4;680;534.6;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;481.5;472.7;530.9;420.8;560;493.18;Não;Não
+18;Soteiro(a);Preta;F;ESpanhol;27014029;Palmeira dos Indios;AL;389;494.1;496;438.3;680;499.48;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;536.2;611.1;609;509.8;700;593.22;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;360.3;375;439.6;694.6;720;517.9;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;535.3;500.5;483.6;572.5;560;530.38;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27013901;Palmeira dos Indios;AL;573.1;595.2;557.7;705.1;800;646.22;Sim, um;Sim
+17;Não dec;Parda;F;Inglês;27226239;Coruripe;AL;466;429.4;538.3;468.7;480;476.48;Não;Sim
+20;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;560;538.7;557.9;670.6;520;569.44;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27045234;Penedo;AL;465;509.5;485.2;437.6;480;475.46;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;533.1;634.4;567.8;580.8;600;583.22;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;509.6;574;579.3;677;800;627.98;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;574.3;615.1;603.8;664.6;820;655.56;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27013979;Palmeira dos Indios;AL;439.3;501.4;409.2;487.7;380;443.52;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;581.6;595.8;611.7;745.8;760;658.98;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27045153;Penedo;AL;595.2;609.4;579.5;659.8;880;664.78;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27014959;Palmeira dos Indios;AL;383.6;550.1;534;456.5;640;512.84;Não;Sim
+18;Soteiro(a);Não dec;M;ESpanhol;27045552;Penedo;AL;355.9;451.5;418;488.1;440;430.7;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27045552;Penedo;AL;396.4;426.1;489.6;385.1;560;451.44;Não;Sim
+20;Soteiro(a);Preta;F;ESpanhol;27050572;Coruripe;AL;440.1;453.5;460;480.1;620;490.74;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;353.7;483.4;385.1;457.6;320;399.96;Não;Sim
+19;Soteiro(a);Amarela;F;ESpanhol;27215830;Palmeira dos Indios;AL;557.4;628.6;595;590.6;780;630.32;Sim, um;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27045234;Penedo;AL;516.9;395.3;504.7;449.7;480;469.32;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;380;385.9;528.6;435.9;600;466.08;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27226239;Coruripe;AL;546.6;519.1;530.3;594;600;558;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27013901;Palmeira dos Indios;AL;491.7;521.8;567.3;529.3;940;610.02;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27215342;Penedo;AL;474.4;548.2;553.3;495.6;640;542.3;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;420.3;518.8;552;523.3;620;526.88;Sim, um;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27047830;Penedo;AL;516.2;616.5;559.1;657;720;613.76;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27013979;Palmeira dos Indios;AL;405.2;424.1;465.3;496.9;360;430.3;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27226239;Coruripe;AL;428.1;349.6;451.9;403.3;360;398.58;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27045145;Penedo;AL;414.4;485.1;518.1;531.1;520;493.74;Não;Não
+19;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;546.8;531.9;555.9;480.7;800;583.06;Não;Não
+22;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;453;482.4;428.7;596.2;580;508.06;Não;Sim
+17;Soteiro(a);Não dec;M;ESpanhol;27220923;Palmeira dos Indios;AL;549.7;545.2;581.5;625.3;700;600.34;Sim, um;Sim
+19;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;556.7;624.8;577.1;624.9;620;600.7;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;512.5;578.1;552.2;595.1;700;587.58;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;452.5;496.2;531.3;440.2;620;508.04;Não;Sim
+19;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;576;591.1;565.7;662.8;740;627.12;Sim, um;Sim
+17;Soteiro(a);Não dec;F;Inglês;27226239;Coruripe;AL;498.5;428.9;493.6;540.3;620;516.26;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;423.8;409;360.1;482.6;500;435.1;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;478.5;548.9;568.4;506.7;600;540.5;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;499;595.1;575.4;498;720;577.5;Não;Não
+20;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;371.8;410.3;436.5;403.6;460;416.44;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;597.1;631.7;643.2;795.4;840;701.48;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27014959;Palmeira dos Indios;AL;424.9;483.6;509.7;459.4;580;491.52;Não;Não
+19;Soteiro(a);Parda;M;Inglês;27045145;Penedo;AL;450.1;397.8;483.2;505.3;540;475.28;Não;Sim
+20;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;488;478.9;501.8;511.5;920;580.04;Sim, um;Sim
+36;Casado(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;452;471.5;482.9;387;440;446.68;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;395.1;386.5;421.8;408.7;480;418.42;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;357.1;419.9;471.5;398.5;420;413.4;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;452.4;494;518.4;519.9;600;516.94;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;362;493.9;514.4;360.1;540;454.08;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27045145;Penedo;AL;524;413.4;508.2;525.9;320;458.3;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27047830;Penedo;AL;631;528.5;492.1;635;540;565.32;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27047830;Penedo;AL;506.1;564.6;534.9;513.5;660;555.82;Sim, um;Sim
+18;Não dec;Parda;F;ESpanhol;27014037;Palmeira dos Indios;AL;346.4;469.9;460.7;447;560;456.8;Não;Não
+20;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;445.3;495.4;525.9;387.8;580;486.88;Sim, um;Sim
+33;Casado(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;381.4;432.3;429;373.5;360;395.24;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;425.6;492.4;494.8;512;680;520.96;Não;Sim
+28;Soteiro(a);Branca;F;ESpanhol;27015068;Palmeira dos Indios;AL;353.3;466.4;516.2;455.7;480;454.32;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;582;590.1;634.2;638.7;820;653;Sim, um;Sim
+16;Soteiro(a);Branca;M;ESpanhol;27014959;Palmeira dos Indios;AL;401.4;505.7;405.2;611.5;500;484.76;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;505.3;529.9;549.6;543.8;820;589.72;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27013928;Palmeira dos Indios;AL;480.5;497.9;556.2;515.3;560;521.98;Não;Sim
+21;Soteiro(a);Branca;F;ESpanhol;27047830;Penedo;AL;568.6;422.6;523.5;416.8;920;570.3;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;487.7;425.9;454.6;424.3;600;478.5;Não;Sim
+20;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;370.6;475.1;482.4;453.2;500;456.26;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;390.9;511.9;400.3;506;500;461.82;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;425;522.9;529.1;400.8;700;515.56;Não;Não
+19;Soteiro(a);Branca;M;Inglês;27050572;Coruripe;AL;556.8;595.6;577.8;589.3;700;603.9;Sim, um;Sim
+19;Não dec;Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;497.8;538.4;491.5;625.4;640;558.62;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;464.1;618.7;555.4;617.7;720;595.18;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;529;541.8;553.3;667.1;760;610.24;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;405.7;465.4;520.3;411.9;520;464.66;Não;Não
+22;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;522.3;540.4;532.3;524.7;720;567.94;Não;Não
+17;Soteiro(a);Parda;M;Inglês;27014029;Palmeira dos Indios;AL;494.4;523;424.4;572.2;760;554.8;Não;Sim
+18;Soteiro(a);Amarela;F;Inglês;27226328;Coruripe;AL;418.1;445.1;467.2;498;520;469.68;Não;Sim
+18;Não dec;Parda;M;Inglês;27045234;Penedo;AL;405.7;451.9;468.5;449.2;500;455.06;Não;Sim
+20;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;417.5;423.6;468.2;427.4;480;443.34;Não;Não
+17;Soteiro(a);Branca;M;Inglês;27045200;Penedo;AL;480.1;539.2;525.3;434.5;720;539.82;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27015068;Palmeira dos Indios;AL;463.1;369.4;368.6;536.1;440;435.44;Não;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27013995;Palmeira dos Indios;AL;394.2;399.3;396.8;401.7;480;414.4;Não;Não
+43;Casado(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;414.6;486.8;427.3;515.9;500;468.92;Não;Não
+17;Soteiro(a);Branca;M;ESpanhol;27014908;Palmeira dos Indios;AL;465.8;440;515.4;637.4;620;535.72;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27014002;Palmeira dos Indios;AL;477.8;468.3;546.6;496.1;680;533.76;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;519.8;576.9;582.7;676.5;480;567.18;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;383.9;412.5;388.5;414.8;400;399.94;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;482.2;577.1;539;618.3;800;603.32;Não;Sim
+16;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;473.1;467.9;446;423.1;600;482.02;Sim, um;Sim
+19;Soteiro(a);Branca;F;Inglês;27015068;Palmeira dos Indios;AL;389.9;514.4;488.5;434;540;473.36;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;378.5;413.6;428.9;469.8;440;426.16;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;381.5;419.6;489.7;590;480;472.16;Não;Não
+21;Soteiro(a);Parda;F;ESpanhol;27014002;Palmeira dos Indios;AL;331.9;472.8;420.1;414.9;380;403.94;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;497.5;553.5;594.2;651.4;740;607.32;Não;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27014053;Palmeira dos Indios;AL;498.8;409.5;528.2;501;560;499.5;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27013928;Palmeira dos Indios;AL;487.4;536.5;542;451.1;580;519.4;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27226166;Penedo;AL;469.3;493.9;481.9;583.2;720;549.66;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;466.5;489.9;502.4;525.8;540;504.92;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;578.1;441.2;530.9;569.8;580;540;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27014932;Palmeira dos Indios;AL;411.2;519.9;513.9;517.1;580;508.42;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;520.2;545.1;540;551.4;720;575.34;Sim, um;Sim
+17;Não dec;Branca;F;ESpanhol;27226239;Coruripe;AL;428.2;409.4;401.5;416.5;540;439.12;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;609.7;603.3;598.1;648.9;920;676;Não;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27013928;Palmeira dos Indios;AL;409.9;357.3;400.7;422.6;300;378.1;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014037;Palmeira dos Indios;AL;369.6;520;407.6;495.5;600;478.54;Não;Sim
+19;Soteiro(a);Parda;M;Inglês;27014959;Palmeira dos Indios;AL;378.1;357;420.2;423.1;320;379.68;Não;Não
+18;Soteiro(a);Branca;F;Inglês;27013901;Palmeira dos Indios;AL;548.6;515.4;551.1;391.2;840;569.26;Não;Sim
+19;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;368;393.3;355.7;591.8;440;429.76;Sim, um;Sim
+19;Soteiro(a);Preta;M;Inglês;27215830;Palmeira dos Indios;AL;426;499.9;520;691.9;660;559.56;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;498.9;563;539.5;414.9;900;583.26;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;491;520.6;546.8;457.1;580;519.1;Sim, um;Não
+19;Soteiro(a);Branca;M;Inglês;27013928;Palmeira dos Indios;AL;489.6;523.3;543;609.6;700;573.1;Não;Sim
+18;Soteiro(a);Preta;M;Inglês;27047830;Penedo;AL;359.1;435;430.4;515;440;435.9;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;463.5;478;504.1;398.1;640;496.74;Não;Não
+17;Soteiro(a);Branca;F;Inglês;27220923;Palmeira dos Indios;AL;484.8;606.2;574.5;565.5;620;570.2;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;373.6;400.9;443.2;446.1;380;408.76;Não;Sim
+19;Soteiro(a);Branca;F;ESpanhol;27014959;Palmeira dos Indios;AL;369.1;445;514.3;416.7;540;457.02;Não;Não
+17;Soteiro(a);Branca;F;Inglês;27215830;Palmeira dos Indios;AL;496.8;568.5;573.9;655;720;602.84;Sim, um;Sim
+36;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;418.1;408.8;406.8;393.6;560;437.46;Sim, um;Sim
+21;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;437.4;395.8;455.3;395;520;440.7;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27014037;Palmeira dos Indios;AL;396.8;548.5;528.8;410.8;580;492.98;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;428.5;353.8;484.5;516.6;640;484.68;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;454.2;517.1;403.8;452.6;620;489.54;Não;Sim
+17;Não dec;Branca;M;ESpanhol;27013901;Palmeira dos Indios;AL;434.4;455.5;413.5;457.2;680;488.12;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27226239;Coruripe;AL;329.7;452.2;488;542.1;580;478.4;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;487.2;496.8;503.3;453.9;600;508.24;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27013901;Palmeira dos Indios;AL;555.1;614.6;598.9;641.3;900;661.98;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;438.6;340.4;439.2;405.7;580;440.78;Não;Não
+19;Soteiro(a);Parda;M;Inglês;27014959;Palmeira dos Indios;AL;403.9;444;428.9;485.3;540;460.42;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;510.4;490.7;501.5;444.6;720;533.44;Não;Sim
+18;Casado(a);Parda;F;ESpanhol;27226239;Coruripe;AL;349.9;462.5;505.4;455.9;500;454.74;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27013979;Palmeira dos Indios;AL;353.9;424;520.2;393.7;500;438.36;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;373;521.7;511.4;504.6;520;486.14;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;422.4;467.7;483.8;491.7;560;485.12;Não;Sim
+16;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;538.1;432.3;542.7;505.2;700;543.66;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;541.7;402;511.4;629.1;580;532.84;Não;Sim
+18;Separado(a);Branca;M;Inglês;27050572;Coruripe;AL;521.6;554.8;504.1;802.1;700;616.52;Não;Sim
+19;Soteiro(a);Parda;M;Inglês;27014010;Palmeira dos Indios;AL;510.7;402.4;430.2;433.5;600;475.36;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;551.7;597.3;572.5;827;840;677.7;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;404.5;414;442.6;397.3;360;403.68;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;464.7;488.3;497;429.3;560;487.86;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27050572;Coruripe;AL;612.4;575.8;582.5;715.1;880;673.16;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27226239;Coruripe;AL;482.7;392.9;453.6;408.6;580;463.56;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27014932;Palmeira dos Indios;AL;482.7;437.7;507.8;427;400;451.04;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27013928;Palmeira dos Indios;AL;366;512;490.9;436.1;580;477;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;426.2;367.5;492.3;549.9;640;495.18;Sim, dois;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;404.8;397.2;473;603.2;520;479.64;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;426.9;484.7;526;392.2;560;477.96;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27013901;Palmeira dos Indios;AL;411.4;407.1;493.1;536.2;560;481.56;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;402.3;443.3;469;403.6;560;455.64;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27014010;Palmeira dos Indios;AL;424.8;464.8;482.5;413.1;460;449.04;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;506.9;523.9;524.7;496.8;820;574.46;Sim, um;Sim
+19;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;525.6;611.6;615.7;531.6;720;600.9;Não;Sim
+19;Soteiro(a);Parda;M;Inglês;27013979;Palmeira dos Indios;AL;366.9;434.1;368.3;512.1;380;412.28;Não;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27013979;Palmeira dos Indios;AL;461.7;548.9;529.8;472.3;600;522.54;Não;Sim
+17;Soteiro(a);Preta;M;ESpanhol;27050572;Coruripe;AL;516.2;552.6;523;616.3;780;597.62;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;522.5;416.1;551.2;631.3;620;548.22;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27226328;Coruripe;AL;459.5;474.7;515.9;399.1;560;481.84;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;352.4;451.9;455.3;403.1;520;436.54;Não;Não
+16;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;536.3;541.1;549.3;548.5;720;579.04;Sim, um;Não
+18;Soteiro(a);Preta;M;Inglês;27215830;Palmeira dos Indios;AL;535.1;514.3;561.1;374.3;660;528.96;Não;Não
+17;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;421.4;483.6;512.5;414;560;478.3;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045145;Penedo;AL;521.2;592.8;551.2;597.7;720;596.58;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;511.2;504.3;521.3;467;720;544.76;Sim, um;Sim
+17;Soteiro(a);Branca;M;Inglês;27220923;Palmeira dos Indios;AL;415.4;488.8;486.4;505;640;507.12;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;495.9;574.4;570.3;557.3;680;575.58;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;547.2;584.6;606;564.9;660;592.54;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27045234;Penedo;AL;407.2;512.5;502.9;464.5;580;493.42;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27015068;Palmeira dos Indios;AL;410.6;417.7;484.7;427.5;400;428.1;Não;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27050572;Coruripe;AL;454.7;495.6;472.3;543.9;720;537.3;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;466.7;435;451.6;434.6;840;525.58;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;383.2;463.8;483.2;417.3;520;453.5;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;542.6;551.7;551.2;639.7;540;565.04;Não;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27226328;Coruripe;AL;389.5;414.1;456.4;386;480;425.2;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;488.2;449.8;546;538.5;800;564.5;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;565.9;648.8;622.8;798.6;880;703.22;Sim, um;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27013928;Palmeira dos Indios;AL;382.2;331;482.4;453.8;460;421.88;Não;Sim
+20;Soteiro(a);Indigena;M;ESpanhol;27013928;Palmeira dos Indios;AL;381.9;384.3;372.6;433.7;600;434.5;Não;Sim
+17;Soteiro(a);Preta;M;Inglês;27045145;Penedo;AL;418.5;514.3;521;475.8;460;477.92;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27050572;Coruripe;AL;634.6;592.4;598.7;696.5;800;664.44;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;398.7;467.9;497.3;561.3;520;489.04;Não;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27014053;Palmeira dos Indios;AL;480.7;539.8;571.3;638.2;940;634;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;478.1;531.6;506.8;593.9;700;562.08;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27013928;Palmeira dos Indios;AL;417.4;488.9;443.6;371;540;452.18;Não;Sim
+18;Não dec;Parda;F;ESpanhol;27015068;Palmeira dos Indios;AL;380.2;470.2;528.2;442.4;420;448.2;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27226328;Coruripe;AL;338.6;360.3;391.3;402.4;500;398.52;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;446.3;417;486.8;541.9;520;482.4;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27013928;Palmeira dos Indios;AL;476.2;477.8;515.5;468.9;660;519.68;Não;Sim
+20;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;576;592.3;572.7;753.7;920;682.94;Sim, dois;Sim
+17;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;443.4;469.4;465.7;399.3;500;455.56;Não;Não
+17;Soteiro(a);Preta;F;ESpanhol;27014959;Palmeira dos Indios;AL;441.7;358.9;345.3;424.9;540;422.16;Não;Sim
+22;Soteiro(a);Parda;F;Inglês;27013928;Palmeira dos Indios;AL;345.4;472;362.9;455.7;560;439.2;Não;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;503.5;549.6;425.5;583.9;700;552.5;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014053;Palmeira dos Indios;AL;443.1;426.2;436.5;396.6;580;456.48;Sim, um;Sim
+22;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;566.5;591;565.2;501.9;640;572.92;Sim, um;Sim
+20;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;469.4;565.5;579.8;549.2;740;580.78;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27226328;Coruripe;AL;399.6;461.5;470.3;407.8;420;431.84;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;426.4;530.4;490.2;466;700;522.6;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27013928;Palmeira dos Indios;AL;468.6;450.3;502.3;406.2;480;461.48;Não;Sim
+16;Soteiro(a);Parda;F;Inglês;27013901;Palmeira dos Indios;AL;507.9;526.2;569.3;368.3;660;526.34;Não;Sim
+19;Soteiro(a);Preta;F;ESpanhol;27215830;Palmeira dos Indios;AL;567;490.8;561.1;602.5;740;592.28;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27050572;Coruripe;AL;512.7;542.6;519.5;514.4;620;541.84;Não;Não
+20;Soteiro(a);Branca;F;ESpanhol;27047830;Penedo;AL;475.1;512.8;550.6;658.9;700;579.48;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;447.3;506;424.1;430.7;920;545.62;Não;Não
+17;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;372.6;431.8;499.8;516.2;380;440.08;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014010;Palmeira dos Indios;AL;410.9;586;521.5;486.9;720;545.06;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;445.8;581;575.9;563.8;620;557.3;Não;Não
+20;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;473.7;510.9;537.1;578.4;720;564.02;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27013928;Palmeira dos Indios;AL;493.6;517.4;532.8;518.1;600;532.38;Não;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;466.2;463.1;452.8;553.3;580;503.08;Não;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27215830;Palmeira dos Indios;AL;563.3;619.4;587.5;675.1;580;605.06;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27014029;Palmeira dos Indios;AL;500;552.5;582.5;582.5;820;607.5;Não;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27014029;Palmeira dos Indios;AL;432.4;462.5;484.7;538.4;540;491.6;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27013995;Palmeira dos Indios;AL;465.6;559.5;536.1;518.1;560;527.86;Não;Sim
+19;Soteiro(a);Preta;M;ESpanhol;27045137;Penedo;AL;412.8;383.8;432.5;617;560;481.22;Sim, um;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27015068;Palmeira dos Indios;AL;466.8;410.8;421.7;400.9;340;408.04;Não;Não
+19;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;391.8;366.9;420.6;475.6;520;434.98;Não;Não
+17;Soteiro(a);Preta;F;ESpanhol;27014959;Palmeira dos Indios;AL;469.3;443.5;419.8;506.7;440;455.86;Sim, dois;Não
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;463.6;464.7;470.3;408.8;640;489.48;Não;Não
+19;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;521.1;555.3;559.7;496.7;840;594.56;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27226328;Coruripe;AL;413.2;442.5;535.2;447.1;560;479.6;Não;Não
+19;Soteiro(a);Parda;F;ESpanhol;27013979;Palmeira dos Indios;AL;355.3;429.6;436.9;416.6;420;411.68;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27042251;Coruripe;AL;384.3;493.8;520;422.4;740;512.1;Não;Não
+19;Soteiro(a);Preta;M;ESpanhol;27047830;Penedo;AL;453.8;523.9;533.1;559.7;880;590.1;Não;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27226239;Coruripe;AL;412.7;450;454.3;388;560;453;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27014959;Palmeira dos Indios;AL;436.9;487.3;525.3;520.7;720;538.04;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27220923;Palmeira dos Indios;AL;510.6;604.5;550.7;524;720;581.96;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27045234;Penedo;AL;416.9;367.6;460.7;467.7;420;426.58;Não;Sim
+20;Soteiro(a);Preta;F;Inglês;27047830;Penedo;AL;395.7;426;476;528;480;461.14;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;413.7;501.7;524.5;391.9;480;462.36;Não;Sim
+19;Soteiro(a);Preta;M;ESpanhol;27042251;Coruripe;AL;464.7;336.1;500.6;431.3;520;450.54;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27220923;Palmeira dos Indios;AL;501.7;557.5;562.8;497.4;520;527.88;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;402.4;387.5;408.3;507.7;600;461.18;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;433.4;535.8;530.9;525.3;560;517.08;Não;Sim
+18;Soteiro(a);Preta;F;ESpanhol;27014010;Palmeira dos Indios;AL;409.6;467.4;551.2;426.1;560;482.86;Não;Não
+20;Soteiro(a);Branca;F;ESpanhol;27047830;Penedo;AL;550.8;479.4;508.7;505.5;600;528.88;Sim, um;Não
+17;Soteiro(a);Parda;M;Inglês;27042251;Coruripe;AL;411;514;541.8;389.4;540;479.24;Sim, um;Sim
+18;Soteiro(a);Indigena;M;ESpanhol;27014029;Palmeira dos Indios;AL;412.3;390;491.8;625.6;580;499.94;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27015068;Palmeira dos Indios;AL;351.8;393.6;480.3;369.8;300;379.1;Não;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27215830;Palmeira dos Indios;AL;539.5;558.6;582.1;598.7;640;583.78;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;508;404;464.9;489.2;560;485.22;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27215830;Palmeira dos Indios;AL;626.4;636.2;622.4;711.9;840;687.38;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27226328;Coruripe;AL;450.1;559.8;494.3;611.1;600;543.06;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;391.7;512.5;488.6;413.9;620;485.34;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27050572;Coruripe;AL;505;492.9;541.4;636.8;900;615.22;Sim, um;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27042251;Coruripe;AL;463.1;471.7;533.7;397.1;480;469.12;Não;Sim
+22;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;380.3;392.3;410.1;371.4;480;406.82;Não;Não
+18;Soteiro(a);Branca;F;Inglês;27013979;Palmeira dos Indios;AL;347.3;467.9;443.9;486.1;380;425.04;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;566;563.8;622.6;704.9;680;627.46;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;488.5;544.7;584;543.3;740;580.1;Não;Sim
+20;Separado(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;467.6;468.4;587.4;603.6;640;553.4;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;419.8;427.8;475;512.6;540;475.04;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;420.7;485.1;498;564.2;780;549.6;Não;Sim
+19;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;481.8;586.2;575.6;596.2;680;583.96;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27220923;Palmeira dos Indios;AL;586.1;550.1;563;625.9;660;597.02;Sim, um;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27226239;Coruripe;AL;440.9;550;497.7;442.9;560;498.3;Não;Não
+18;Soteiro(a);Branca;M;ESpanhol;27226239;Coruripe;AL;421.5;407.3;348.5;398;520;419.06;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;391.1;466;458.1;469.2;460;448.88;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;345.1;478.6;526.5;510.7;540;480.18;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27013901;Palmeira dos Indios;AL;410.8;487.9;466;536;440;468.14;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27014010;Palmeira dos Indios;AL;464;435.9;481.5;474.4;780;527.16;Sim, um;Sim
+18;Casado(a);Não dec;M;ESpanhol;27045552;Penedo;AL;393.8;342.9;333.5;391;400;372.24;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;605.2;515.6;560.6;703.1;640;604.9;Não;Não
+17;Soteiro(a);Branca;F;ESpanhol;27013979;Palmeira dos Indios;AL;424.4;516.8;543.4;501.5;520;501.22;Não;Sim
+18;Soteiro(a);Branca;F;ESpanhol;27013979;Palmeira dos Indios;AL;450.6;517.8;469.2;399.1;380;443.34;Não;Não
+18;Soteiro(a);Branca;M;Inglês;27047830;Penedo;AL;604.2;630.7;611.6;729.1;800;675.12;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014940;Palmeira dos Indios;AL;540;530.9;527.1;441;660;539.8;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;413.5;399.2;343;372.6;420;389.66;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;362.6;393.1;433.8;377.6;480;409.42;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27042251;Coruripe;AL;365.7;351.7;477.5;435.1;580;442;Sim, um;Sim
+16;Soteiro(a);Branca;F;ESpanhol;27215830;Palmeira dos Indios;AL;521.5;580;593.6;501.5;740;587.32;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;462.3;564.1;562.7;544.9;840;594.8;Sim, um;Sim
+18;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;440.3;427.2;479.6;418.1;600;473.04;Não;Não
+17;Soteiro(a);Branca;F;ESpanhol;27226239;Coruripe;AL;487.7;390.3;462.6;418;420;435.72;Não;Sim
+17;Soteiro(a);Parda;F;Inglês;27013901;Palmeira dos Indios;AL;534.3;620.2;600.4;532.8;900;637.54;Sim, um;Sim
+19;Soteiro(a);Branca;F;ESpanhol;27045269;Penedo;AL;464.8;450.6;501.3;434.2;400;450.18;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;546.8;568.2;527.5;566.4;660;573.78;Sim, dois;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;489.1;480.2;546.4;675.7;660;570.28;Não;Sim
+19;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;564.1;506;523.3;609.7;700;580.62;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27013901;Palmeira dos Indios;AL;450.5;391.7;517.3;610.4;600;513.98;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27226328;Coruripe;AL;499.7;533.5;516.4;402.7;660;522.46;Não;Não
+18;Soteiro(a);Branca;F;ESpanhol;27014029;Palmeira dos Indios;AL;388.1;406.6;407.7;460.5;500;432.58;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;408.4;498.5;506.5;485.3;480;475.74;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;553.1;578.1;585.4;743.2;580;607.96;Não;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;572.6;574.3;574.7;667.9;780;633.9;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27014029;Palmeira dos Indios;AL;353.4;426.9;482.9;404.3;560;445.5;Não;Não
+17;Soteiro(a);Branca;M;ESpanhol;27042251;Coruripe;AL;375.8;480.4;465.8;479.7;520;464.34;Não;Sim
+17;Soteiro(a);Branca;F;Inglês;27042251;Coruripe;AL;453.3;400.4;492.1;391.5;560;459.46;Não;Sim
+18;Não dec;Parda;F;ESpanhol;27047830;Penedo;AL;582;564.7;555.3;571.5;740;602.7;Sim, um;Sim
+17;Soteiro(a);Preta;M;ESpanhol;27014029;Palmeira dos Indios;AL;347.9;506.8;537.2;467.7;620;495.92;Não;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27045552;Penedo;AL;407.9;450.6;453.7;410.4;500;444.52;Não;Não
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;550.5;344.6;508.9;465.6;460;465.92;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27014010;Palmeira dos Indios;AL;456.1;388.7;375.3;455.1;520;439.04;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045153;Penedo;AL;557.6;648.6;600.9;674.6;800;656.34;Sim, dois;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215474;Penedo;AL;447.1;496.5;431.1;600.6;640;523.06;Sim, um;Sim
+17;Soteiro(a);Branca;F;ESpanhol;27220923;Palmeira dos Indios;AL;389.5;578;558.4;391.4;880;559.46;Não;Não
+17;Soteiro(a);Branca;M;ESpanhol;27045552;Penedo;AL;434.9;502.4;469.1;460.8;560;485.44;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;543.9;461.1;601.9;613.3;560;556.04;Sim, um;Sim
+17;Soteiro(a);Indigena;F;ESpanhol;27014959;Palmeira dos Indios;AL;478.6;573.5;544.4;581.8;620;559.66;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27050572;Coruripe;AL;533;589.6;549.8;617.5;720;601.98;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27226239;Coruripe;AL;387.9;492.1;425.2;536.1;480;464.26;Não;Não
+17;Soteiro(a);Branca;M;ESpanhol;27014959;Palmeira dos Indios;AL;408.1;333.2;399.3;373.6;500;402.84;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27014959;Palmeira dos Indios;AL;403.7;509.6;420.5;575.5;360;453.86;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27045234;Penedo;AL;355.8;478.6;495.7;499.1;540;473.84;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;595.8;598.9;620.7;669.4;740;644.96;Não;Não
+16;Soteiro(a);Branca;M;Inglês;27220923;Palmeira dos Indios;AL;433.4;438.6;507.1;500.5;620;499.92;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;476.7;541.3;559.4;429.4;500;501.36;Não;Sim
+20;Soteiro(a);Preta;M;ESpanhol;27215830;Palmeira dos Indios;AL;406.9;448.1;511;366.5;640;474.5;Sim, um;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27045137;Penedo;AL;507.8;383.4;505;367.7;580;468.78;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;403.9;383.3;467.6;445.9;400;420.14;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;519.6;554.8;586.1;678.1;780;623.72;Sim, um;Sim
+28;Soteiro(a);Parda;F;Inglês;27013880;Palmeira dos Indios;AL;426.4;531.9;466.8;434.8;540;479.98;Não;Sim
+18;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;462.9;433.4;475;361.9;440;434.64;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;454;531.3;564.6;501.6;760;562.3;Não;Sim
+22;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;537.9;396.8;555.1;576.6;660;545.28;Sim, um;Sim
+22;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;387.4;453.3;465.3;387.2;580;454.64;Não;Sim
+19;Soteiro(a);Branca;M;ESpanhol;27047830;Penedo;AL;412.4;398.5;468.6;435.5;500;443;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27013901;Palmeira dos Indios;AL;445.5;498.1;514;438.2;520;483.16;Não;Não
+17;Soteiro(a);Parda;F;Inglês;27014959;Palmeira dos Indios;AL;428.6;466.7;521;425.4;580;484.34;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27220923;Palmeira dos Indios;AL;587.1;574.5;574.9;440;800;595.3;Sim, dois;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27015068;Palmeira dos Indios;AL;376.4;333.5;425.2;359.9;540;407;Sim, um;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27042251;Coruripe;AL;407.8;400.6;483.1;485.3;480;451.36;Não;Não
+19;Soteiro(a);Parda;M;ESpanhol;27014053;Palmeira dos Indios;AL;365.3;503.7;374.7;493.6;520;451.46;Sim, um;Sim
+19;Soteiro(a);Parda;F;Inglês;27045145;Penedo;AL;387.7;478.3;500.7;399.3;480;449.2;Não;Sim
+21;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;613.1;634.5;560.7;619.3;560;597.52;Sim, um;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;579.5;639.4;565.2;716.6;920;684.14;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27014002;Palmeira dos Indios;AL;512.3;565.4;538.2;403.9;560;515.96;Sim, um;Sim
+17;Soteiro(a);Branca;M;ESpanhol;27226239;Coruripe;AL;482.3;411.2;496.1;462.4;440;458.4;Não;Não
+17;Soteiro(a);Branca;M;ESpanhol;27220923;Palmeira dos Indios;AL;389.2;412.5;423.3;521.8;600;469.36;Sim, um;Sim
+17;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;626.8;643;606.9;705.4;700;656.42;Sim, dois;Sim
+18;Soteiro(a);Branca;M;ESpanhol;27014029;Palmeira dos Indios;AL;410.5;507.1;472.5;443.4;480;462.7;Sim, um;Sim
+16;Soteiro(a);Branca;M;ESpanhol;27220923;Palmeira dos Indios;AL;586.4;503.5;490;638.8;760;595.74;Sim, um;Não
+18;Soteiro(a);Branca;F;ESpanhol;27045137;Penedo;AL;356.7;500.1;508.6;386.5;480;446.38;Sim, dois;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;474.7;486.3;572.3;483.8;560;515.42;Não;Não
+18;Soteiro(a);Amarela;M;ESpanhol;27042251;Coruripe;AL;360.2;520.2;553.8;514.2;580;505.68;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27014932;Palmeira dos Indios;AL;536.3;521.2;560.4;470;440;505.58;Não;Não
+17;Soteiro(a);Branca;F;ESpanhol;27013901;Palmeira dos Indios;AL;416.4;429.8;481.6;572.3;520;484.02;Sim, um;Sim
+17;Soteiro(a);Branca;F;Inglês;27013901;Palmeira dos Indios;AL;568.7;593.7;601.7;596.6;620;596.14;Sim, um;Não
+18;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;521.1;343.7;528.5;623.3;500;503.32;Sim, um;Sim
+19;Soteiro(a);Amarela;F;ESpanhol;27050572;Coruripe;AL;486.3;493.6;514.9;712.4;740;589.44;Não;Não
+20;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;466.6;500.3;537.8;443.1;600;509.56;Não;Sim
+24;Soteiro(a);Parda;F;ESpanhol;27013928;Palmeira dos Indios;AL;496.2;443.1;506;411.8;520;475.42;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27047830;Penedo;AL;511.9;545.9;562.5;703.5;580;580.76;Sim, um;Sim
+17;Soteiro(a);Preta;F;ESpanhol;27013901;Palmeira dos Indios;AL;417.6;425.8;439.5;494.5;640;483.48;Sim, um;Sim
+16;Soteiro(a);Branca;M;ESpanhol;27220923;Palmeira dos Indios;AL;428;356;477.1;497.6;440;439.74;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;438.4;400;333.2;433.8;320;385.08;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27047830;Penedo;AL;524.3;512.4;520;449.1;620;525.16;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;413.3;517.7;482.8;487.7;720;524.3;Não;Sim
+20;Soteiro(a);Branca;M;Inglês;27047830;Penedo;AL;638.1;502.8;590.8;559.5;560;570.24;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;449.4;506.1;481.5;474.7;540;490.34;Sim, um;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014053;Palmeira dos Indios;AL;453;424.6;495;470.4;560;480.6;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;419.9;432.4;426.2;514.7;360;430.64;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27014959;Palmeira dos Indios;AL;456.1;498.1;531.2;413.3;400;459.74;Não;Não
+22;Soteiro(a);Branca;F;ESpanhol;27047830;Penedo;AL;448;496;547.1;554.7;540;517.16;Sim, um;Sim
+19;Soteiro(a);Parda;M;ESpanhol;27215830;Palmeira dos Indios;AL;561.2;484;518.7;733.3;960;651.44;Não;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;476.4;562.5;545.9;607.3;600;558.42;Sim, um;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27226239;Coruripe;AL;421.8;446.2;417.1;397.9;540;444.6;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;446.7;583.9;476.9;650.1;660;563.52;Não;Não
+18;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;556.9;571.9;564;656.3;700;609.82;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27013901;Palmeira dos Indios;AL;532.7;539.4;583.1;580.8;700;587.2;Sim, um;Sim
+20;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;408;371.4;379.2;426.5;620;441.02;Não;Sim
+42;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;380.1;386.2;379.9;453.7;480;415.98;Não;Sim
+17;Soteiro(a);Preta;F;Inglês;27047830;Penedo;AL;474.6;516.7;544.4;537.9;640;542.72;Sim, um;Sim
+19;Soteiro(a);Preta;M;Inglês;27050572;Coruripe;AL;473.6;488.9;500.8;636.4;560;531.94;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27045552;Penedo;AL;418.1;357.4;528.8;432.5;440;435.36;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27045234;Penedo;AL;366.4;464.1;494.3;476;460;452.16;Não;Sim
+18;Soteiro(a);Amarela;M;ESpanhol;27047830;Penedo;AL;515.1;543.2;514.7;712.2;480;553.04;Não;Não
+19;Soteiro(a);Preta;F;ESpanhol;27047830;Penedo;AL;551.9;541.8;530.6;500.6;600;544.98;Sim, um;Sim
+19;Não dec;Parda;M;Inglês;27050572;Coruripe;AL;580.1;617.4;595;693.8;560;609.26;Sim, dois;Sim
+22;Não dec;Parda;F;ESpanhol;27047830;Penedo;AL;561.6;584.2;606.2;559.8;620;586.36;Não;Sim
+17;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;589.7;563.3;554.8;724.9;640;614.54;Sim, um;Sim
+19;Soteiro(a);Branca;F;Inglês;27014002;Palmeira dos Indios;AL;378;496.8;446.1;419.7;580;464.12;Não;Não
+18;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;485;556.2;573;519.9;600;546.82;Sim, um;Sim
+18;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;569.3;547.1;606.6;656.4;580;591.88;Sim, um;Sim
+17;Soteiro(a);Parda;F;Inglês;27215830;Palmeira dos Indios;AL;532.7;588.7;557.7;575.6;840;618.94;Sim, um;Sim
+17;Soteiro(a);Indigena;M;ESpanhol;27014606;Palmeira dos Indios;AL;412.7;442.9;502.4;443.9;560;472.38;Não;Não
+18;Soteiro(a);Parda;M;ESpanhol;27014959;Palmeira dos Indios;AL;405.9;491.3;535;502;640;514.84;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27045552;Penedo;AL;381.2;417.8;452.1;376;380;401.42;Não;Sim
+22;Soteiro(a);Parda;M;Inglês;27014029;Palmeira dos Indios;AL;392.7;353.8;533.9;391.7;560;446.42;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27045145;Penedo;AL;348.7;445.3;462.4;650.8;620;505.44;Não;Sim
+18;Soteiro(a);Parda;F;ESpanhol;27047830;Penedo;AL;517.3;541.8;573.3;580.7;740;590.62;Sim, um;Sim
+19;Soteiro(a);Parda;M;Inglês;27047830;Penedo;AL;477.5;476.7;514.4;564.3;600;526.58;Sim, um;Sim
+18;Soteiro(a);Parda;M;Inglês;27014010;Palmeira dos Indios;AL;386.8;378.2;414.9;427.2;420;405.42;Não;Sim
+18;Não dec;Preta;F;ESpanhol;27050572;Coruripe;AL;400.2;389.4;427;541.1;500;451.54;Não;Sim
+19;Soteiro(a);Parda;M;Inglês;27215830;Palmeira dos Indios;AL;531.3;551.6;558.5;619.5;560;564.18;Sim, um;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27045234;Penedo;AL;392.6;363.4;415.1;397.4;540;421.7;Não;Sim
+17;Soteiro(a);Parda;F;ESpanhol;27014029;Palmeira dos Indios;AL;395.5;452;491.8;525.5;580;488.96;Não;Não
+17;Soteiro(a);Parda;F;ESpanhol;27013901;Palmeira dos Indios;AL;466.3;546.6;533.6;496.1;760;560.52;Não;Sim
+18;Soteiro(a);Não dec;M;Inglês;27047830;Penedo;AL;565;621.2;628.8;695.1;800;662.02;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27014010;Palmeira dos Indios;AL;407.2;525.4;500.4;423.4;560;483.28;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27015068;Palmeira dos Indios;AL;497.2;397.1;409.7;490;600;478.8;Sim, um;Sim
+20;Soteiro(a);Parda;M;ESpanhol;27015068;Palmeira dos Indios;AL;418.5;508.5;469.6;478.1;520;478.94;Não;Sim
+16;Soteiro(a);Amarela;F;Inglês;27042251;Coruripe;AL;456.7;562.2;594.2;623.2;840;615.26;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27226166;Penedo;AL;545.9;569.8;561.9;559.1;580;563.34;Não;Sim
+18;Soteiro(a);Branca;M;Inglês;27013901;Palmeira dos Indios;AL;506.8;578;406.6;560.9;880;586.46;Sim, um;Sim
+18;Soteiro(a);Não dec;M;Inglês;27047830;Penedo;AL;559.9;547.5;570.3;612.8;300;518.1;Sim, dois;Sim
+17;Soteiro(a);Parda;M;ESpanhol;27014029;Palmeira dos Indios;AL;357.5;557.6;529.3;410.8;460;463.04;Não;Sim
+18;Soteiro(a);Parda;M;Inglês;27226328;Coruripe;AL;413.6;372.5;481;606.9;460;466.8;Não;Sim
+17;Soteiro(a);Parda;M;Inglês;27014037;Palmeira dos Indios;AL;424.9;486;525.3;516.5;380;466.54;Não;Sim
+18;Soteiro(a);Preta;M;ESpanhol;27215830;Palmeira dos Indios;AL;640.3;583.8;589;690.8;700;640.78;Não;Sim
+18;Soteiro(a);Parda;F;Inglês;27014959;Palmeira dos Indios;AL;494.7;505.2;589.4;533.8;700;564.62;Não;Sim
+18;Soteiro(a);Branca;M;Inglês;27215830;Palmeira dos Indios;AL;555.3;663.1;605.2;758.7;900;696.46;Sim, dois;Sim
+18;Soteiro(a);Parda;M;ESpanhol;27014037;Palmeira dos Indios;AL;433.3;479.8;512.4;369.1;600;478.92;Não;Não
+18;Soteiro(a);Parda;F;ESpanhol;27050572;Coruripe;AL;544.8;556.6;582.1;583;640;581.3;Sim, um;Sim
+19;Soteiro(a);Parda;F;ESpanhol;27215830;Palmeira dos Indios;AL;402.9;558;484.7;539.9;880;573.1;Não;Sim
