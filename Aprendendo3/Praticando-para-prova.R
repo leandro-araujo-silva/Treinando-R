@@ -117,6 +117,7 @@ desvio
 tobs = (media - 127) / (desvio / sqrt(15)) 
 tobs
 
+
 Resp: Rejeita H0 e pode-se afirmar que a média foi diferente da admitida nos últimos anos.
 
 
